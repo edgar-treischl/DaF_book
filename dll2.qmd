@@ -9,6 +9,10 @@ Im ersten Kapitel werden Sie zunächst über die Faktoren nachdenken, die das Fr
 -   Wer sind die Lernenden? Sie bringen unterschiedliche kognitive Voraussetzungen mit, haben individuelle Vorlieben, wie sie lernen möchten, und schließlich sind sie auch unterschiedlich motiviert, Sprachen zu lernen.
 -   Vergleich Kinder, Jugendliche. vs. Erwachsene
 
+
+## Welche Faktoren bestimmen das Lernen?
+
+
 Das folgende Schaubild fasst die Kontextfaktoren, die das Sprachenlernen Ihrer Lernenden beeinflussen, noch einmal zusammen:
 
 ![](media/band2_grafik_001_klein.jpg){fig-align="center"}
@@ -30,7 +34,7 @@ Ziel dieses Teilkapitels ist, dass Sie
 - wissen, welche Konsequenzen man aus den Lerntheorien für Unterricht ableiten kann.
 
 
-## Was weiß man über das Lernen:
+### Was weiß man über das Lernen:
 
 - Lernen vs. Erwerben: Wenn ein kleines Kind mit dem Spracherwerb beginnt, verwendet man dafür den Begriff erwerben. Mit Erwerben wird ein ungesteuerter Vorgang bezeichnet, der in einer außerunterrichtlichen Situation im Rahmen von natürlicher Kommunikation stattfindet.
 
@@ -40,7 +44,7 @@ Ziel dieses Teilkapitels ist, dass Sie
 
 
 
-### Lerntheorien
+### Lerntheorien {-}
 
 - *Behaviorismus*: Das Lernen wird in dieser Theorie als eine Verhaltensänderung gesehen. Dazu wird ein auslösender Impuls (stimulus) benötigt, auf den eine Reaktion der Lernerin / des Lerners (response) erfolgt. Lernen ist demnach ein imitativer Prozess. Das heißt: Die Umwelt liefert das korrekte Vorbild, das Lernende nachahmen sollen. (Drill-Übungen ; aber für Automatisierung sehr wichtig)
 
@@ -57,7 +61,7 @@ Die folgende Abbildung zeigt Ihnen im Überblick, was Sie über die verschiedene
 
 ![](media/band2_grafik_003_klein.jpg){fig-align="center"}
 
-## Was weiß man über den Spracherwerb?
+### Was weiß man über den Spracherwerb?
 
 Ziel dieses Teilkapitels ist, dass Sie
 
@@ -66,7 +70,7 @@ Ziel dieses Teilkapitels ist, dass Sie
 - wissen, warum es im *Spracherwerbsprozess* zu Fehlern kommt, und Sie die Fehler Ihrer Lernenden analysieren und Vermutungen über ihre Ursachen anstellen können,
 - wissen, inwiefern sich das Lernen einer ersten Fremdsprache vom Lernen aller weiteren Fremdsprachen unterscheidet.
 
-### Spracherwerbskontexte
+#### Spracherwerbskontexte
 
 - No Muttersprache: Erstsprache weil sonst verwirrend
 - Menschen können monolingual, bilingual oder multilingual aufwachsen
@@ -74,7 +78,7 @@ Ziel dieses Teilkapitels ist, dass Sie
 - Fremdsprachen werden unterrichtlich gesteuert gelernt, da sie meist im Unterricht oder in anderen institutionell geprägten Lehr- und Lernsituationen vermittelt wird; insbesondere im Vergleich zu *Zweitsprachen*
 
 
-### Spracherwerbshypothesen
+#### Spracherwerbshypothesen
 
 - *angeborene Spracherwerbsfähigkeit*: Kinder rezipieren die Umwelt
 - *Nativistische Ansätze* sagen, dass Menschen eine angeborene Fähigkeit haben, Sprache zu erwerben. Aus diesen Überlegungen ist die Identitätshypothese entstanden, die auch den Fremdsprachenerwerb auf der Basis der angeborenen Fähigkeiten zu erklären versucht.
@@ -129,11 +133,11 @@ Vielleicht hatten Sie selbst schon erste Ideen, wie man die Aussagen der besproc
 
 - Fehler, die entstehen, wenn Lernende noch nicht in der Lage sind, in eine neue Erwerbssequenz einzutreten, können zwar korrigiert werden, die Korrekturen wirken sich aber erst dann aus, wenn die Lernenden in der Lage sind, das neue Phänomen – aufbauend auf dem bereits Bekannten – zu verstehen. Erst dann können sie es auch korrekt anwenden.
 
-## Worin unterscheiden sich meine Lernenden?
+### Worin unterscheiden sich meine Lernenden?
 
 Anschließend wenden wir uns den Lernenden genauer zu und thematisieren ihre individuellen Unterschiede: wie sich das Alter auf den Lernerfolg auswirkt, welche emotionalen und kognitiven Faktoren beim Lernen eine Rolle spielen und wie wichtig es ist, dass alle Lerntypen einen Zugang zum Lernstoff finden.
 
-### Alter
+#### Alter{-}
 
 Angeborene Spracherwerbsmechanismen treten in Kraft, ohne dass sie den Lernenden bewusst sind, und sorgen für sogenanntes *implizites Lernen*. Aufbauend auf den von Natur aus vorhandenen Lernfähigkeiten entwickelt der Mensch im Laufe seines Lebens aber auch bewusste Lern- und Problemlösetechniken, die immer mehr Wirkung entfalten. Wir sprechen dann von *explizitem Lernen*. 
 
@@ -160,7 +164,9 @@ Merkmale impliziten Lernens im Unterricht für Kinder:
 Mit der folgenden Übersicht fassen wir noch einmal zusammen, worin sich das Lernen von Kindern, Jugendlichen und Erwachsenen unterscheidet:
 
 ![](media/band2_grafik_006_klein.jpg){fig-align="center"}
-### Emotionen und Kognitionen beim Sprachlernen
+
+
+#### Emotionen und Kognitionen beim Sprachlernen {-}
 
 Wir müssen auf die Bedürfnisse und Voraussetzungen der Lernenden bei der Unterrichtsplanung und -durchführung eingehen. Wenn dies gelingt, spricht man von *Lernerorientierung* im Unterricht.
 
@@ -188,7 +194,7 @@ Mit den Begriffen global und analytisch unterscheidet man die Art und Weise, wie
 
 Diese beiden Begriffe beschreiben, inwieweit eine Lernerin / ein Lerner bereit ist, auch Informationen aufzunehmen und zu verarbeiten, die sie/er nicht vollständig verstehen kann. Ambiguitätstolerante Lernende kommen grundsätzlich gut in natürlichen Kommunikationssituationen zurecht, in denen sie nicht alles verstehen, besonders wenn schnell oder im Dialekt gesprochen wird. Ambiguitätsintolerante Lernende fühlen sich in solchen Situationen schnell überfordert und finden sie eher unangenehm. Sie haben das Bedürfnis, neue Wörter exakt und Gespräche vollständig zu verstehen, und suchen nach präzisen Übersetzungen in ihrer Erstsprache.
 
-## Zusammenfassung
+### Zusammenfassung
 
 In Kapitel 2 stand die Frage im Mittelpunkt, welche Voraussetzungen und Bedingungen das Sprachenlernen beeinflussen. Um diese Frage zu beantworten, haben wir Theorien vorgestellt, die allgemeine Aussagen über das Lernen treffen. Dabei wurde deutlich, dass es nicht eine einzige, allumfassende Theorie gibt, die den Lernprozess abbildet, sondern dass die Lerntheorien verschiedene Aspekte des Lernens beleuchten und erklären können. Somit hat jede der vorgestellten Theorien – mit unterschiedlicher Gewichtung – Aussagekraft für das Fremdsprachenlernen. Da besonders die kognitiven Lerntheorien mit ihrem Bezug zu anderen Wissenschaftsgebieten (z.B. Neurowissenschaften und Lernpsychologie) sehr viel über die menschliche Informationsverarbeitung zeigen, sind sie eine wichtige Grundlage für viele didaktische Schlussfolgerungen im Verlauf dieser Einheit.
 
@@ -199,7 +205,7 @@ Zwar kann man aus den allgemeinen Lerntheorien Rückschlüsse für das Lernen vo
 Außerdem haben Sie gesehen, dass individuelle Merkmale und Eigenschaften das Sprachenlernen in besonderer Weise prägen. Zu diesen individuellen Lernerfaktoren gehören affektive Faktoren wie Motivation, Angst und Einstellung sowie kognitive Faktoren wie Sprachlerneignung und Lernstile. Auch das Alter der Lernenden wirkt sich auf das Fremdsprachenlernen aus, da die Eigenschaften und Lernvoraussetzungen von Kindern, Jugendlichen und Erwachsenen sich stark unterscheiden können. Wenn Sie als Lehrkraft die Lernerfaktoren kennen, verstehen Sie, warum Lernen individuell und immer anders abläuft. Dies ist eine Voraussetzung dafür, dass Sie einen Unterricht gestalten können, der auf die unterschiedlichen Bedürfnisse der Lernenden eingeht.
 
 
-## 3.1 Wie lernt man Sprachen zu lernen?
+## Wie lernt man Sprachen zu lernen?
 
 Thema des dritten Kapitels ist, wie man lernen kann, Sprachen zu lernen. Wir zeigen, wie man die Individualität der Lernenden im Unterricht berücksichtigen kann. Wir stellen dar, wie Lernende ihr Lernen reflektieren, wie sie immer selbstständiger und systematischer beim Lernen vorgehen und wie Sie als Lehrende diese Prozesse anleiten können. Weiter möchten wir Ihnen zeigen, mit welchen Strategien Ihre Lernenden lernen können und wie Sie sie darin unterstützen können, sich diese Vorgehensweisen anzueignen und zu üben.
 
@@ -212,7 +218,7 @@ Unsere Grundannahme ist dabei, dass Bewusstheit über den Lernprozess und Selbst
 3. *Mehrsprachigkeitsorientierung*: Das Prinzip Mehrsprachigkeitsorientierung berücksichtigt, dass Lernende zumeist bereits mit Sprachenkenntnissen und Sprachlernerfahrungen aus früheren Lernprozessen in den Unterricht kommen. Dieses Potenzial soll im Unterricht aufgegriffen werden. 
 
 
-## 3.2 Wie reflektiert man das eigene Lernen?
+### Wie reflektiert man das eigene Lernen?
 
 Ebenen der Reflexion: Reflexion zum Sprachenlernen kann auf drei Ebenen stattfinden:
  - auf der *kognitiven* Ebene: Was kann ich bereits auf Deutsch tun, was weiß ich schon und was ist mein nächstes Lernziel?
@@ -236,7 +242,7 @@ Ebenen der Reflexion: Reflexion zum Sprachenlernen kann auf drei Ebenen stattfin
 - Sprachspiele: Gerade die Wortbildung (z.B. Komposita) bietet sich dafür an, sich mit der Sprache zu beschäftigen. Interessant sind Wörter, die gleich klingen, aber verschiedene Bedeutungen haben, sogenannte Homonyme (Bank, Sitzen und Geld)
 
 
-## 3.3 Wie leitet man selbstständiges Lernen an?
+### Wie leitet man selbstständiges Lernen an?
 
 Wir haben das didaktisch-methodische Prinzip Förderung von Lernerautonomie zu Beginn des Kapitels bereits als wichtige Orientierung für diese Einheit genannt: Wenn Lernende in verschiedenen Bereichen die Verantwortung für ihr Lernen übernehmen und in verschiedenen Kontexten selbstständig und unabhängig sind, spricht man von Lernerautonomie.Zur Förderung von *Lernerautonomie* gehört,
 
@@ -244,7 +250,7 @@ Wir haben das didaktisch-methodische Prinzip Förderung von Lernerautonomie zu B
 - dass sie einschätzen lernen, was sie gut bzw. nicht so gut können, und
 - dass Sie entscheiden lernen, wann, mit welchen Materialien und vielleicht auch mit wem sie lernen wollen.
 
-## 3.4 Wie leitet man systematisches Lernen an?
+### Wie leitet man systematisches Lernen an?
 
 Unter *Lernstrategien* versteht man die planvolle Vorgehensweise, die man einsetzt, um ein Ziel zu erreichen. Lernstrategien können je nach Bedarf, persönlichem Lernstil und Situation unterschiedlich sein, sie haben aber immer das Ziel, den Lernprozess zu steuern und den Lernerfolg zu erhöhen. Die konkrete Ausführung einer Strategie ist die *Lerntechnik*, also der sichtbare, beobachtbare Teil einer Strategie. Eine Strategie kann aus mehreren konkreten Teilhandlungen, aus Lerntechniken, bestehen. Eine Lerntechnik wäre beispielsweise das Nachschlagen im Wörterbuch.
 
@@ -286,7 +292,7 @@ Voraussetzungen für die *Selbstevaluation* (Das eigene Lernen bewerten):
 Zusammenfassend möchten wir nun noch einmal die wesentlichen Aspekte der Selbstevaluation festhalten. Selbstevaluationen sind im Sinne des autonomen Lernens wichtig, um bisher Gelerntes zu reflektieren, um den aktuellen Wissensstand zu überprüfen und um weitere Lernschritte erfolgreich zu planen. Dabei müssen die Lernenden von der Lehrkraft schrittweise an die Selbsteinschätzung herangeführt werden. Diese Anleitung beinhaltet, dass den Lernenden verständlich gemacht wird, welche Lernziele oder Inhalte sie reflektieren sollen und dass sie die Rolle der Checklisten und die einzelnen Kriterien der Leistungsbewertung verstehen. Idealerweise sollten die Lernenden in regelmäßigen Abständen die Gelegenheit zur Selbstevaluation bekommen.
 
 
-## 3.5 Wie schafft man Raum für Individualität und Selbstständigkeit?
+### Wie schafft man Raum für Individualität und Selbstständigkeit?
  
 *Innere Differenzierung*: Eine Möglichkeit, wie Sie der Individualität der Lernenden gerecht werden können, ist eine Unterrichtsgestaltung, die auf die verschiedenen Lernbedürfnisse und Kenntnisse der Lernenden eingeht. Wenn man als Lehrkraft den Lernprozess für seine Lernenden jeweils unterschiedlich gestalten muss, nennt man dies *Binnendifferenzierung* oder innere Differenzierung. Man bietet also Lernaktivitäten und Arbeits- und Sozialformen an, aus denen Lernende auswählen können und die sie optimal fördern. Im Mittelpunkt steht somit „die selbstbestimmte Gestaltung der Inhalte und Formen des Lernens unter ständiger Reflexion der kognitiven und sozialen Prozesse“ (Schwerdtfeger 2001, S. 105).
 
@@ -305,7 +311,7 @@ Eine Möglichkeit, auf die verschiedenen Voraussetzungen Ihrer Lernenden einzuge
 *Arbeitsformen und Instrumente für selbstständiges Lernen*: Stationenlernen; Wochenplanarbeit, Lerntagebuch, Portfolio
 
 
-## 3.6 Zusammenfassung
+### Zusammenfassung
 
 In Kapitel 2 dieser Einheit hatten Sie sich damit beschäftigt, wie Lernen im Allgemeinen und das Sprachenlernen im Besonderen funktioniert. Darüber hinaus haben Sie erfahren, welche individuellen Voraussetzungen und Bedürfnisse Ihre Lernenden in den Unterricht mitbringen. Im dritten Kapitel stand nun die Frage im Mittelpunkt, wie Lernende darin unterstützt werden können, das Sprachenlernen zu lernen. Damit verbunden war die zentrale Frage, wie Unterricht gestaltet werden kann, damit die Lernenden möglichst selbstständig werden und auch über den Unterricht hinaus erfolgreich weiterlernen können.
 
@@ -331,15 +337,13 @@ Ihre Rolle als Lehrkraft verändert sich hier natürlich, indem Sie sich stärke
 
  
 
-## 4 Wie helfen andere Sprachen beim Deutschlernen?
+## Wie helfen andere Sprachen beim Deutschlernen?
 
 Im vierten Kapitel legen wir den Fokus ganz darauf, dass Deutsch für die meisten Lernenden nicht die erste, sondern bereits die zweite oder sogar dritte Fremdsprache ist. Wir zeigen, wie man die Verwandtschaft zwischen Sprachen zum Lernen nutzen kann und welche Möglichkeiten es darüber hinaus gibt, das Erlernen einer zweiten oder weiteren Fremdsprache zu erleichtern und die vorhandenen Potenziale der Lernenden zu nutzen. Hier führen wir didaktisch-methodische Prinzipien ein, die Ihnen beim Unterrichten von Deutsch als zweiter Fremdsprache Orientierung bieten und die wir mit konkreten Vorschlägen für Ihre Unterrichtspraxis veranschaulichen.
 
-## 4.1 Einführung
-
 In Kapitel 4 gehen wir jetzt der Frage nach, in welcher Weise andere Sprachen beim Deutschlernen helfen. 
 
-## 4.2 Welche Sprachen gibt es im Klassenzimmer?
+### Welche Sprachen gibt es im Klassenzimmer?
 
 Wir zeigen Ihnen zwei Beispiele dafür, wie vorhandene Sprachenkenntnisse ins Klassenzimmer geholt werden können. Das erste Beispiel ist die Arbeit mit sogenannten *Sprachenporträts*. Bei diesem Verfahren geht es darum, im Unterricht Sprachenporträts oder auch Sprachbiografien zu erarbeiten. Die Lernenden erhalten dafür eine Silhouette (…) mit der Arbeitsanweisung, alle "ihre" Sprachen dort hineinzumalen und dabei für jede Sprache eine andere Farbe zu benutzen. 
 
@@ -350,13 +354,13 @@ Dass Sprachen nicht isoliert nebeneinander existieren, sondern in einem dynamisc
 
 Wenn Lernende Lehnwörter aus der eigenen Sprache in einer Fremdsprache entdecken oder merken, dass sie z.B. aufgrund ihrer Deutschkenntnisse auch ein bisschen Niederländisch oder Dänisch verstehen können, wächst oftmals ihre Lernmotivation. Das Deutschlernen bekommt dadurch eine neue Dimension.
 
-## 4.3 Welche Ähnlichkeiten und Unterschiede zwischen Sprachengibt es? 
+### Welche Ähnlichkeiten und Unterschiede zwischen Sprachengibt es? 
 
 Um Übertragungsfehler zu vermeiden, müssen also bei einem kontrastiven Vorgehen neben den Ähnlichkeiten auch die Unterschiede aufgegriffen werden.
 
 In diesem Teilkapitel lag der Fokus auf den Erfahrungen mit verschiedenen Sprachen, die Ihre Lernerinnen und Lerner bereits in den Unterricht mitbringen. Diese sollten in jedem Fall berücksichtigt und beim Lernen der neuen Sprache aktiviert werden. In einem ersten Schritt sollten Sie als Lehrkraft deshalb zunächst die sprachlichen Kenntnisse Ihrer Lernenden zum Thema machen (siehe Kapitel 4.2). Im weiteren Lernprozess ist es dann sinnvoll, die Ähnlichkeiten und Unterschiede zwischen den Sprachen kontinuierlich aufzugreifen, damit die Lernenden dazu angeregt werden, ihre sprachlichen Vorkenntnisse aktiv einzusetzen und sie für den erfolgreichen Erwerb des Deutschen zu nutzen.
 
-## 4.4 Warum soll man das Vorwissen der Lernenden berücksichtigen?
+### Warum soll man das Vorwissen der Lernenden berücksichtigen?
 
 *Mehrsprachigkeitsdidaktik*: Die zentralen Leitgedanken der Mehrsprachigkeitsdidaktik entsprechen den lerntheoretischen Erkenntnissen, die wir oben erläutert haben:
 
@@ -376,7 +380,7 @@ Eine rezeptive Kompetenz kann man natürlich besonders rasch in solchen Sprachen
 
 Die Theorien sprechen für die Vernetzung der gelernten und neuen Sprachen, der Sprachlernerfahrungen und für die Bewusstmachung der Lernstrategien. Diese Erkenntnisse fließen in neue didaktische Ansätze ein. Die Ansätze der Mehrsprachigkeitsdidaktik zielen darauf ab, dass sich Menschen in mehreren Sprachen verständigen können, und setzen die bereits vorhandenen Sprachenkenntnisse und Sprachlernerfahrungen der Lernenden bewusst ein.
 
-## 4.5 Wie knüpft man im Unterricht an vorhandene Kenntnisse an?
+### Wie knüpft man im Unterricht an vorhandene Kenntnisse an?
 
 Im Tertiärsprachenunterricht können Lehrende also auf den vorhandenen Kenntnissen und Erfahrungen der Lernenden aufbauen. Wir sprechen in diesem Zusammenhang von *Anknüpfen*. Anknüpfen kann man beim Lernen einer zweiten Fremdsprache auf verschiedene Weise:
 
@@ -394,7 +398,7 @@ Aufgrund der Erfahrungen aus dem Unterricht der ersten Fremdsprache können also
 
 Diese drei Ebenen des Transfers sind für den Vorgang des Anknüpfens grundlegend.
 
-## 4.6 Wie vermittelt man Deutsch als zweite Fremdsprache?
+### Wie vermittelt man Deutsch als zweite Fremdsprache?
 
 Lernziele dieses Teilkapitels sind, dass Sie
 - *didaktisch-methodische Prinzipien* kennenlernen, nach denen Deutsch als zweite Fremdsprache unterrichtet wird,
@@ -404,7 +408,7 @@ Lernziele dieses Teilkapitels sind, dass Sie
 Das so wichtige Anknüpfen an vorhandene Kenntnisse und Erfahrungen kann in Bezug auf die drei unten skizzierten Ebenen stattfinden. Diese drei Ebenen bilden auch den Hintergrund für fünf Prinzipien für den Unterricht von Deutsch als zweiter Fremdsprache, die die Tertiärsprachendidaktik als Leitlinien für sich aufgestellt hat (Neuner u.a. 2009). Die Prinzipien im Unterricht Deutsch als zweite Fremdsprache sind: 
 
  ![](media/band2_grafik_024_klein.jpg){fig-align="center"}
-### 4.6.1 Prinzip vergleichen und besprechen
+#### Prinzip vergleichen und besprechen
 
 Dieses Prinzip zielt darauf ab, dass die Lernenden ihr Wissen über die Erst- und FremdspracheNein bewusst aktivieren, darüber im Unterricht sprechen und es zum Memorieren von neuem Wissen nutzen. In diesem Prozess können die Lehrkraft oder die Lernaktivitäten in den Lehrwerken die Lernenden unterstützen. Beispiel:
 
@@ -418,7 +422,7 @@ Das Prinzip vergleichen und besprechen macht die Lernenden zu aktiven Gestalteri
 
 Das Prinzip vergleichen und besprechen ist eines der wichtigsten Prinzipien der Tertiärsprachendidaktik. Es geht davon aus, dass das *Sprachenlernen ein kognitiver Prozess* ist. Die Sprachlernbewusstheit wird gefördert und das Gesamtnetz der Sprachenkenntnisse wird durch den kontinuierlichen sprachlichen, kulturellen und lernstrategischen Vergleich ständig erweitert.
 
-### 4.6.2 Prinzip Verstehen fördern
+#### Prinzip Verstehen fördern
 
 Die Tertiärsprachendidaktik zielt darauf ab, dass Lernende möglichst früh viel vom sprachlichen Input verstehen können. Im Unterricht des Deutschen als zweiter Fremdsprache ist die Rezeption und das Verstehen von Äußerungen und Texten besonders wichtig.
 
@@ -428,7 +432,7 @@ Der Einsatz von Verstehensstrategien (hier Leseverstehens-, Hörverstehens- und 
 
 Da durch die umfangreicheren Vorkenntnisse im Tertiärsprachenunterricht insgesamt mehr und zügiger verstanden werden kann, ist es möglich, bereits früh mit authentischen Texten zu arbeiten. Der Fokus dieser Textarbeit liegt dann nicht darauf, den Text vollständig zu verstehen, sondern darauf, Verstehensstrategien bewusst einzusetzen und die Hauptinformationen global zu erfassen.
 
-### 4.6.2 Prinzip Lernerinteressen berücksichtigen
+#### Prinzip Lernerinteressen berücksichtigen
 
 Dieses Prinzip besagt, dass die Zielgruppe mit Inhalten und Lernaktivitäten arbeiten sollte, die auf ihre Bedürfnisse und Interessen abgestimmt sind. Die Zielgruppe, die Deutsch als zweite Fremdsprache lernt, kann sich in ihren Interessen und Lernbedürfnissen erheblich von den Lernenden einer ersten Fremdsprache unterscheiden.
 
