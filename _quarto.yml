@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Deutsch als Fremdsprache"
+  author: "Edgar J. Treischl"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - dll2.qmd
+    - references.qmd
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    include-in-header: 
+      - progress-bar.html
+  pdf:
+    documentclass: scrreprt
+
+
+
