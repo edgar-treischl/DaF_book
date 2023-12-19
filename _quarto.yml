@@ -13,7 +13,7 @@ book:
   navbar:
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/edgar-treischl/DaF_book
         aria-label: GitHub
 
 bibliography: references.bib
