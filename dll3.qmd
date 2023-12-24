@@ -1,0 +1,304 @@
+---
+title: "Deutsch als fremde Sprache (DLL3)"
+---
+
+
+## Sprache als Medium der Kommunikation
+
+Die deutsche Sprache ist wie alle Sprachen ein Medium, mit dem es möglich wird, dass sich Menschen verständigen. Doch wodurch kann Sprache diese Funktion erfüllen? Mit dieser Frage befasst sich die wissenschaftliche Disziplin der *Linguistik*. Sie beschreibt und erklärt, wie die einzelnen Bausteine oder Elemente der Sprache geformt sind, wie sie zueinander in Beziehung stehen, wie und wodurch sie Bedeutung übermitteln und welchen kommunikativen Funktionen sie dienen.
+
+Sehr häufig stehen in wissenschaftlichen Grammatiken die Formen und Strukturen von sprachlichen Mitteln im Vordergrund. Wir möchten einen anderen Weg gehen. Das folgende Zitat soll diesen Weg andeuten: "Denk an die Werkzeuge in einem Werkzeugkasten: es ist da ein Hammer, eine Zange, eine Säge, ein Schraubenzieher, ein Maßstab, ein Leimtopf, Leim, Nägel und Schrauben. – So verschieden die Funktionen dieser Gegenstände, so verschieden sind die Funktionen der Wörter." (Wittgenstein 1984, Paragraph 11).
+
+
+
+In Kapitel 1 erläutern wir,
+
+- was es bedeutet, wenn man Sprache als Werkzeug betrachtet, und führen die grundlegenden Begriffe ein, mit denen wir in dieser Einheit über das Deutsche als fremde Sprache sprechen werden,
+- welche unterschiedlichen Bedeutungen von Grammatik es gibt und welche wir in dieser Einheit verwenden,
+- wie und wodurch sprachliche Kommunikation eigentlich funktioniert, mit dem Ziel zu zeigen, warum Menschen, die miteinander in einer Sprache kommunizieren, sich verstehen oder sich verstehen können,
+- wie sprachliche Mittel mit einem Fokus auf ihre Funktionen und Formen im Unterricht vermittelt werden können. Die Entwicklung der Sprachbewusstheit bei den Lernerinnen und Lernern ist dabei das Schlüsselmoment.
+
+
+### Funktionen und Formen sprachlicher Mittel
+
+#### Bedeutungen von Grammatik:
+
+1. Grammatik kann begriffen werden als das *gesamte System von Formen*, das einer Sprache zugrunde liegt. Dieses System bildet die Regelmäßigkeiten einer Sprache ab. (Helbig 1981; Funk/Koenig 1991). Barkowski (2010, S. 106) weist ausdrücklich darauf hin, dass dieses System aus Formen mit spezifischen Funktionen für die konkrete Äußerung besteht.
+
+2. Die *Dokumentation dieses Systems einer Sprache zu einem pädagogischen Zweck*. So verstanden kann eine Grammatik ein *umfassendes Nachschlagewerk*, aber auch eine Schulgrammatik sein, die ausgewählte Formen darstellt, ein Zusatzmaterial zu einem Lehrwerk oder ein elektronisches Dokument, das im Internet zur Verfügung steht.
+
+
+3. Grammatik ist der *aktuelle Stand des sprachlichen Wissens*, über das eine Lernerin / ein Lerner verfügt, also das *Regelsystem im Kopf eines Lernenden*. Dieses Wissen steht in enger Beziehung zur Grammatik als System von Formen und ihren Bedeutungen. Es muss diesem System aber nicht vollständig entsprechen und es entwickelt sich im Lauf des Spracherwerbs ständig weiter.
+
+
+4. Grammatik ist ein *Beschreibungsmodell* für die (Teil-)Systeme oder Komponenten der Sprache (z.B. Wortschatz und Strukturen). Es gibt verschiedene Beschreibungsmodelle oder linguistische Modelle wie z.B. die Valenzgrammatik. Linguistische Modelle verfolgen unterschiedliche Zielsetzungen und folgen unterschiedlichen theoretischen Vorannahmen über Sprache. Dementsprechend können sie nicht alle für Zwecke des Fremdsprachenunterrichts herangezogen werden.
+
+*Grammatik in dieser Einheit*: Wir verstehen Grammatik in dieser Einheit in einem weiten Sinn als System aller sprachlicher Mittel, ihrer Formen und den Regeln ihres Zusammenwirkens sowie ihrer kommunikativen Funktionen. Damit ist Grammatik die Basis dafür, dass Menschen ihre Mitteilungsabsichten sprachlich realisieren können.
+
+Um eine Äußerung zusammenzubauen, bedienen wir uns sprachlicher Mittel aus vier verschiedenen Schubladen:
+
+- feste oder – wie wir sagen – formelhafte Wendungen
+- Wörter (flektierte und unflektierte)
+- grammatische Regeln, Endungen usw.
+- Intonationsmuster und Laute
+
+Sie als Lehrende haben für Ihren Unterricht das Ziel, Lernende darin zu unterstützen, ihre Mitteilungsabsichten auf Deutsch realisieren zu können und Mitteilungen von anderen zu verstehen, also auf Deutsch zu kommunizieren. Dazu müssen Lernende die sprachlichen Mittel, ihre Formen und Funktionen, die das Deutsche zur Verfügung stellt, richtig verwenden können. Und Sie als Lehrkraft müssen Fragen der Lernenden nach dem Warum, Wozu und dem Wie in Bezug auf Sprache beantworten können. Wenn wir darunter Grammatik verstehen, hätten die Lernenden mit der Aussage, dass sie im Unterricht Grammatik erwarten, eigentlich doch wieder recht.
+
+
+### Wie funktioniert sprachliche Kommunikation?
+
+Das Kommunizieren zwischen den beiden Telefonierenden ist eine soziale Handlung mithilfe des Werkzeugs Sprache. In den sprachlichen Äußerungen spielen formelhafte Wendungen, Wörter, Sätze, Laute und Intonationsmuster zusammen; die Äußerungen transportieren bestimmte Mitteilungsabsichten der Sprechenden, die auf die gehörten und verstandenen Inhalte des Gesprächs in einem bestimmten Kontext reagieren.
+
+#### Kommunizieren in Kontexten
+
+Fremdsprachenlernende haben aufgrund ihres eingeschränkten Sprachwissens Schwierigkeiten, einen Text zu verstehen. Kontextwissen ermöglicht es ihnen, Verstehenslücken zu kompensieren. Um kommunikativ erfolgreich zu sein, braucht man möglichst deutliche Hinweise auf den Kontext und die Fähigkeit, diesen wahrzunehmen und richtig zu entschlüsseln. Beispiel: Kontextwissen des Beispieltelefonats:
+
+![](media/band3_grafik_002_klein.jpg){fig-align="center"}
+
+
+#### Kommunizieren ist sprachliches Handeln
+
+Im nächsten Schritt sehen wir uns an, wie Silvia und Peter mit Sprache handeln, während sie miteinander telefonieren. Mit ihren Äußerungen (Wörtern, Satzteilen, Sätzen usw.) vollziehen sie Handlungen. Sprache, Handeln und der Kontext des Gesprächs stehen dabei in einem engen Verhältnis. Jede Äußerung hat folgende Eigenschaften:
+
+- Äußerungen sind intentional, das heißt, die Sprecherin / der Sprecher will etwas Bestimmtes mitteilen (Peter möchte, dass Silvia ihn bei der Organisation des Klassentreffens unterstützt.).
+- Äußerungen bewirken etwas, das heißt, sie drücken Anliegen aus (Silvia weiß nun, was Peter möchte.).
+- Es müssen spezifische Bedingungen erfüllt sein, damit die Äußerungen verstanden werden können und somit Kommunikation gelingt (Peter akzeptiert nach einer Weile, dass Silvia nicht viel Zeit zum Telefonieren hat, und fasst sich kurz; Silvia hört zu und versteht, was Peter sagt.).
+
+Bei diesen Äußerungen des Telefongesprächs (Chunks: Vorschlag zu treffen; Klärung des Zeitpunkts; Vereinbarung des Treffpunkts) handelt es sich um sogenannte *Sprechakte*. Diese Form der Sprachbeschreibung wurde in den 1960er-Jahren mit John Langshaw Austin (1911–1960) und John R. Searle (*1932) vorgestellt. Die Arbeiten der beiden werden unter dem Begriff Sprechakttheorie zusammengefasst. Sprechakte waren der Ausgangspunkt dafür, zu beschreiben, wie sprachliche Äußerungen in ihrem Kontext funktionieren und wirken. Die wissenschaftliche Teildisziplin ist die Pragmatik.
+
+Ein Sprechakt ist „die kleinste selbstständige Einheit der Sprache in der Pragmatik“ (Wagner 2001, S. 87) oder nach Searle (1971) auch die Basiseinheit sprachlicher Kommunikation. Eine Äußerung ist also das, was jemand konkret sagt, z.B. Grüß dich, Silvia, und ist damit auch eine sprachliche Handlung: Peter begrüßt Silvia. Handlungen wie diese (Begrüßung, Verabschiedung, Fragen nach dem Weg usw.) nennt man Sprechakte. Sprechakte werden auch *klassifiziert*, sodass man verschiedene Äußerungen demselben Sprechakt zuordnen kann (z.B. Grüß dich, Silvia; Guten Tag, Frau Meier = Begrüßung) und verschiedene Typen von Sprechakten unterscheiden kann (Begrüßung, Verabschiedung).
+
+Bei Fremdsprachenlernenden ist diese Kompetenz in der neuen Sprache nicht vorauszusetzen. Sie muss daher im Unterricht vermittelt und trainiert werden. Diese Erkenntnis fand in den 1970er-Jahren Eingang in die Fremdsprachendidaktik und war Auslöser der sogenannten kommunikativen Wende. Seitdem konzipierte man Lehr-/Lernmaterialien zunehmend kommunikationsorientiert und ging von der Mitteilungsabsicht der Sprachenlernenden (z.B. sich verabreden) aus (Graefen/Liedke 2008, S. 178). Lehrwerkautorinnen und -autoren orientieren sich seitdem an folgenden Fragen:
+
+- Welche Mitteilungsabsichten haben die Lernenden?
+- Welche sprachlichen Mittel kennen die Lernenden dafür bereits?
+- Welche sprachlichen Mittel müssen vermittelt werden, damit die Lernenden ihre Mitteilungsabsichten erfüllen können?
+- Welche sprachlichen Mittel sind in welchen soziokulturellen Kontexten angemessen?
+
+
+#### Aussprache
+ 
+Wie wir am Beispiel des Telefongesprächs gesehen haben, setzt sich die Sprache als Medium der Kommunikation aus vielen Einzelbausteinen zusammen. Ihre Leistung zeigt sich auf allen Ebenen der sprachlichen Äußerungen: im Wortschatz, im Satzbau, in der inneren Struktur der Wörter (Morphologie), im Kontext der Kommunikationssituation, in der Aussprache, und zwar immer in Bezug auf die Mitteilungsabsichten, die die beteiligten Personen verfolgen.
+
+*Zusammenfassung*: In diesem Teilkapitel haben Sie gesehen, wie Kommunikation durch Sprache möglich wird. Konkrete sprachliche Äußerungen funktionieren wie Handlungen und Kommunikationsteilnehmende verfolgen über diese ihre Mitteilungsabsichten. An einem Telefongespräch konnten Sie nachvollziehen, dass jede einzelne Einheit einer Äußerung ihre Funktion in der Kommunikation hat und dass sie zum Gelingen der Kommunikation beiträgt.
+
+### Sprache vermitteln
+
+Wenn Sie dieses Teilkapitel bearbeitet haben, wissen Sie, dass es bei der Sprachvermittlung auf ein Gleichgewicht aus inhaltsbezogener und sprachformbezogener Arbeit ankommt; können Sie die Bedeutung einschätzen, die der Sprachbewusstheit für das Lernen einer Fremdsprache zukommt.
+
+*Lesen lernt man nur durch Lesen*, *Sprechen durch Sprechen*, und Flüssigkeit kann in einer Sprache nur erreicht werden, wenn man sie auch trainiert. (…) Auch unsere eigene praktische Erfahrung zeigt uns, dass sich mündlich-produktive Kompetenz, also das flüssige Sprechen einer fremden Sprache, nicht als Nebenprodukt der bewusst gemachten Regeln durch das Üben grammatischer Formen einstellt.
+
+Im Folgenden möchten wir die vier Lernziele genauer betrachten.
+
+1. Lernen durch die *Arbeit mit Inhalten*: Sprache wird zum großen Teil dadurch gelernt, dass Menschen sich für Inhalte interessieren und diese in der fremden Sprache recherchieren, über sie lesen und sie so mental verarbeiten. Dabei fokussieren sie in der Regel erst einmal nicht die sprachliche Ebene der Informationen, sondern in erster Linie die Inhalte.
+
+2. Lernen durch die *Verwendung von Sprache* in Situationen, die für die Lernenden von Bedeutung sind: Menschen lernen Sprache, indem sie sie in für sich selbst sinnvoller Weise schriftlich und mündlich verwenden, um damit eigene Aussagen über sich selbst oder andere, über Texte oder über Sachverhalte zu treffen.
+
+3. Lernen durch das *Training von sprachlicher Flüssigkeit*: Menschen verarbeiten Sprache nicht immer aktiv oder rufen Regeln ab, wenn sie flüssig sprechen und schreiben. Oft geschieht dies imitativ oder reproduktiv: Formelhafte Wendungen, die man gehört oder gelesen hat, ruft man in ihrer phonologisch gespeicherten Form ab und äußert sie spontan. Man spricht dabei von Chunks. Chunks entstehen, indem kleinere Einheiten miteinander verknüpft im Gedächtnis abgespeichert werden, sodass sie als eine Einheit abgerufen werden können.
+
+Man kann als Lehrkraft Kommunikationssituationen im Unterricht simulieren und die Lernenden durch Redemittel, fest gefügte sprachliche Wendungen, Intonationsmuster usw. darin unterstützen, in diesen Situationen flüssig zu sprechen oder zu schreiben. Beim Trainieren sprachlicher Flüssigkeit soll Sprachkönnen unmittelbar erworben werden, ohne dass eine Bewusstmachung von sprachlichen Mitteln notwendigerweise stattfindet. Das nennt man Automatisierung.
+
+4. Lernen durch die *Fokussierung auf Formen*: Grammatikorientiertes Lernen, so bestätigt der Fremdsprachenforscher Rod Ellis (2003), führt meist zu Wissen über Sprache. Wichtigstes Ziel beim Fokus auf die Form und Funktion eines sprachlichen Mittels ist die Richtigkeit der Äußerungen.
+
+Es ist sinnvoll, sich zeitweise mit Strukturen auf der Wort-, Satz- und Textebene zu beschäftigen, z.B. dann, wenn mit dem Gebrauch bestimmter sprachlicher Mittel auch ein inhaltliches Lernziel erreicht wird. So ist eine Systematisierung der Perfekt- und Präteritumformen und ihrer Funktionen z.B. hilfreich, wenn die Lernenden auf Deutsch über eigene Erlebnisse und Erfahrungen berichten möchten. Ziel ist dabei, die korrekte Zeitform auszuwählen.
+
+#### Sprachbewusstheit entwickeln
+
+Außerdem sollte die Sprachbewusstheit der Lernenden in den Blick genommen werden. Sprachbewusstheit ist dabei mehr als Wissen über Sprache. Sprachbewusstheit schließt die Fähigkeit ein, auch Formen und Strukturen wahrzunehmen, die neu sind, und sie in ihrer Funktion zu erkennen. Diese Fähigkeit wächst, indem Lernende Lernstrategien erwerben. Es sind Strategien, um z.B. Formen und Strukturen selbst zu analysieren, ihre Regelmäßigkeiten zu entdecken und diese selbstständig zu formulieren. Diese Strategien unterstützen Lehrwerke zum Teil sehr gut, wie Sie an vielen Beispielen in dieser Einheit später noch beobachten werden. Zum anderen sind es Strategien dafür, die Regeln im Sprachgebrauch bewusst anzuwenden und zu entscheiden, wann man sprachliche Formen auch ohne Regelkenntnis als lexikalische Einheiten lernen sollte.
+
+
+
+![](media/band3_grafik_006_klein.jpg){fig-align="center"}
+
+Zum Abschluss: Um Deutsch als fremde Sprache zu verstehen und zu unterrichten, ist es wichtig, deren Formen und Funktionen zu kennen und erklären zu können, wie Kommunikation auf Deutsch funktioniert. Es ist hilfreich, dies schon möglichst früh im Unterricht anhand realer Gespräche oder Texte durchzuführen, da man in ihnen alle sprachlichen Mittel in ihrer Funktion vorfindet.
+
+Anton Tschechow sagt: "Wo Fehler sind, ist auch Erfahrung." Aber viele Lernende wünschen sich eine hohe Kompetenz auf Deutsch. Die richtige Wahl eines Ausdrucks in einer bestimmten Situation führt dazu, dass man von anderen als (sprachlich) kompetent eingestuft wird. Eine große Hilfe dabei ist es, formelhafte Wendungen zu benutzen, d.h., Wortgruppen und Sätze als Ganzes zu reproduzieren, anstatt diese immer wieder neu zu konstruieren.
+
+
+
+Wir möchten in diesem Kapitel erreichen, dass Sie:
+
+- ein *Bewusstsein für Formelhaftigkeit* in der Sprache entwickeln,
+- erkennen, dass man zum Entschlüsseln von formelhaften Wendungen *Situationswissen und kulturspezifisches Wissen* braucht,
+- mit den *Merkmalen formelhafter Sprache vertraut werden*,
+- wissen, wie Sie Ihre Lernenden für den formelhaften Charakter der Sprache *sensibilisieren* und ihre *Aufmerksamkeit auf formelhafte Wendungen lenken* können.
+
+
+
+
+## Die formelhaften Wendungen
+
+Kommunikative Kompetenz in einer Fremdsprache bedeutet, sprachliche Mittel richtig auswählen zu können. Um effizient kommunizieren zu können, müssen diese nicht nur korrekt, sondern auch angemessen und frequent, d.h. gebräuchlich sein. Kommunikationspartnerinnen und -partner achten neben den Inhalten eben auch sehr darauf, wie etwas gesagt wird, also welche sprachlichen Mittel und nonverbalen Zeichen von den Sprechenden verwendet werden. Kommunizieren in der Fremdsprache ist also kein freies Kombinieren von Wörtern, gewürzt mit ein wenig Grammatik und korrekter Phonetik, sondern immer auch die Wahl der richtigen sprachlichen Mittel.
+
+Die richtige Wahl eines Ausdrucks in einer bestimmten Situation führt dazu, dass man von anderen als (sprachlich) kompetent eingestuft wird. Eine große Hilfe dabei ist es, formelhafte Wendungen zu benutzen, d.h., Wortgruppen und Sätze als Ganzes zu reproduzieren, anstatt diese immer wieder neu zu konstruieren.
+
+
+
+Wir möchten in diesem Kapitel erreichen, dass Sie:
+
+- ein *Bewusstsein für Formelhaftigkeit* in der Sprache entwickeln,
+- erkennen, dass man zum Entschlüsseln von formelhaften Wendungen *Situationswissen und kulturspezifisches Wissen* braucht,
+- mit den *Merkmalen formelhafter Sprache* vertraut werden,
+- wissen, wie Sie Ihre Lernenden für den formelhaften Charakter der Sprache *sensibilisieren* und ihre *Aufmerksamkeit auf formelhafte Wendungen* lenken können.
+
+
+### Situationsbezug und kulturspezifisches Wissen
+
+Der Kontext bestimmt die Wahl der sprachlichen Mittel und Kommunikation funktioniert nur auf der Grundlage spezifischen Situationswissens. Wie wichtig dieses Wissen ist, haben Sie gesehen, als wir das Telefongespräch in Teilkapitel 1.2 ausführlich analysiert haben. Die beiden Personen mussten sehr viel Wissen aus verschiedenen Bereichen aktivieren, damit das Gespräch erfolgreich sein konnte.
+
+*Situationswissen*: Es handelt sich bei Situationswissen um Informationen, die die Kommunikationspartnerinnen und -partner aus einer Gesprächssituation gewinnen können. Dazu zählen z.B. Ort, Zeit (z.B. Zeitpunkt und Zeitdauer des Gesprächs), Kommunikationsteilnehmende (Anzahl, Alter, Geschlecht, Bekanntheit/Vertrautheit der Gesprächspartner), Medium (z.B. direkte Kommunikation, Telefonat). Situationswissen hilft also dabei, (1) die *Kommunikationssituation* zu erfassen und einzuordnen; (2) *Erwartungen* aufzubauen und Verstehen zu erleichtern; (3) *sprachliche Mittel und deren Korrektheit* einschätzen zu können.
+
+Das Situationswissen unterstützt aktiv das Verstehen: Vieles kann im Vorfeld einer Äußerung vorausgesehen werden, wenn die Situation bekannt ist. Eine unvollständige Information kann in Abhängigkeit von der Kommunikationssituation rekonstruiert werden. Auch die Sprachproduktion wird durch Situationswissen erleichtert, da Sprechende einschätzen können, welche sprachlichen Mittel angemessen sind. Ihre Lernenden sollten daher die Möglichkeit erhalten, viele (Standard-)Situationen (z.B. Einkaufen, jemanden auf der Straße grüßen, Arztbesuch usw.) kennenzulernen, um sprachliche Mittel, Adressaten und Situationskomponenten sicher und schnell miteinander in Beziehung setzen und dadurch erfolgreich kommunizieren zu können.
+
+Beispiel Arztbesuch: 
+
+- Spezifische Vokabeln: Krankenversicherungskarte, Überweisung, Rezept
+- Sprachliche Handlungen: einen Termin vereinbaren, ein Rezept ausstellen
+
+Wortschatz und grammatische Strukturen sind aufs Engste mit den in einer Situation nötigen sprachlichen Handlungen und der Situation selbst verbunden; sie werden jedoch nicht explizit thematisiert. Das heißt, obwohl in den Redemitteln z.B. das Modalverb (Sie dürfen nicht) verwendet wird, liegt der Fokus nicht auf der Vermittlung der Formen, sondern auf der situationsangemessenen Verwendung von Sprache. Es ist für den Spracherwerb hilfreich und für die Lernenden motivierend, wenn Situationen wahrgenommen, in verschiedene sprachliche Handlungen untergliedert und mit den jeweiligen sprachlichen Mitteln erworben werden. Das Lehrwerkbeispiel zeigt sehr gut, wie sprachliches Handeln in bestimmten Situationen gelernt werden kann. Fassen wir noch einmal die einzelnen Schritte zusammen, die dafür im Unterricht durchlaufen werden sollten:
+
+- Unterstützen Sie Ihre Lernenden dabei, *Situationen „wahrzunehmen“*. Hierbei hilft die Arbeit mit Bildern, Videos oder Projekten in der Zielsprachenkultur.
+- Lassen Sie Ihre Lernenden *Situationen beschreiben*. Ihre Lernenden sollten sich immer wieder mit Faktoren, die Situationen beeinflussen (z.B. Ort, Zeit, Personen usw.), auseinandersetzen. Über die Beschreibung von Situationen aus eigener Perspektive kommt man (besonders in sprachlich und kulturell heterogenen Gruppen) zum interkulturellen Austausch. Lassen Sie Ihre Lernenden diskutieren, was in ihrem Herkunftsland z.B. bei einem Arztbesuch beachtet werden muss oder was sie an der Darstellung des Arztbesuchs in Deutschland verwundert hat oder bisher unbekannt für sie war.
+- Erarbeiten Sie mit Ihren Lernenden *Rollenspiele* für ausgewählte Situationen. Auf diese Weise verbinden Sie das Situationswissen mit dem aktiven Sprachhandeln.
+- *Besprechen Sie gemeinsam (unbekannte) Situationen*. Fordern Sie Ihre Lernenden dazu auf, ihr (sprachliches) Verhalten und das der Gesprächspartner zu hinterfragen. Fragen könnten z.B. sein: Wie sollte man sich in der Situation sprachlich verhalten? Wie reagiert der Gesprächspartner darauf?
+
+
+*Kulturspezifisches Wissen*: Sie haben am Beispiel der telefonischen Terminvereinbarung (siehe Kapitel 1.2) gesehen, dass die angemessene Wahl der sprachlichen Mittel auch von kulturellem Wissen abhängt. Kommunikationsteilnehmende, die einer bestimmten (gemeinsamen) Kultur angehören, teilen dieses kulturspezifische Wissen, wodurch in der Regel eine problemlose Kommunikation möglich wird. Ob fehlendes kulturspezifisches Wissen die Kommunikation behindert, hängt in hohem Maße von der Distanz zwischen der Ausgangs- und Zielkultur ab.
+
+Beispiel: Ich liebe dich sagt man in arabischen Ländern auch zu Kollegen, in Deutschland nur Partnerschaft und Familie. Ähnlich wie bei sprachlichen Fehlern, die durch das Übertragen von Elementen oder Strukturen aus der Erst- oder Fremdsprache auf die Zielsprache erfolgen, spricht man hier von Transfer, genauer von einem *negativen interkulturellen, pragmatischen Transfer*. Darin liegt ein großes Konfliktpotenzial, denn der Grund für die unangemessene Äußerung wird von den Kommunikationspartnern meist nicht als Resultat anderer kulturspezifischer Kommunikationsmuster erkannt und toleriert, sondern direkt auf den Sprechenden bezogen und als unangemessenes Verhalten bewertet. Für spezifische Situationen gibt es also sowohl sprachliche als auch kulturell gebundene ideale Formulierungen.
+
+Häufig gibt es für einen Äußerungswunsch in einer spezifischen Situation nur eine begrenzte Auswahl möglicher Formulierungen. Diese nennen wir formelhafte Wendungen. Die Bezeichnung macht deutlich, dass solche Formulierungen aus mehreren Wörtern bestehen und mitunter sogar als ganze Texte auftreten können.
+
+*Zusammenfassung*: Kommunikationsteilnehmende wählen sprachliche Mittel entsprechend bestimmten Situationen und sprachlichen Handlungen aus. Dafür greifen sie auf Situationswissen und kulturspezifisches Wissen zurück. Wir haben Ihnen an einem Lehrwerkbeispiel gezeigt, wie im Unterricht durch Hör- und Lesetexte mit situationsadäquaten Inhalten sowie durch Bilder, Infokästen und Redemittelkästen sowohl Situationswissen als auch adäquate sprachliche Mittel zur Verfügung gestellt werden können. Anhand einer missglückten Kommunikation (Ich liebe dich, statt Danke) haben Sie zudem gesehen, wie wichtig kulturspezifisches Wissen für das Gelingen von Kommunikation ist.
+
+
+### Formelhafte Wendungen und ihre Merkmale
+
+Die Meinungen darüber, was in der Sprache formelhaft ist, gehen auseinander. Deshalb finden sich in der Literatur verschiedene Termini für dieses Phänomen, von denen Ihnen einige sicherlich schon in Lehrwerken, Übungsgrammatiken und anderen Lernmaterialien begegnet sind. Dazu zählen z.B. Phraseologismus, Redewendung, komplexe Einheit, Chunk oder auch Wortverbindung, Phrasem, Kollokation, Nomen-Verb-Verbindung, Idiom, Routineformel, Funktionsverbgefüge, Sprichwort, geflügeltes Wort und vieles mehr.
+
+Im Rahmen dieser Einheit können wir jedoch nicht detailliert auf diese Differenzierungen eingehen. Wir konzentrieren uns im Folgenden auf eine gemeinsame Eigenschaft aller dieser sprachlichen Mittel: die Formelhaftigkeit (Beispiele: Na dann, das passt doch). Alle sprachlichen Einheiten, die diese Eigenschaft aufweisen, bezeichnen wir als formelhafte Wendungen.
+
+
+
+Wenn Sie dieses Teilkapitel bearbeitet haben,
+
+- kennen Sie ausgewählte Merkmale formelhafter Wendungen,
+- können Sie formelhafte Wendungen identifizieren,
+- kennen Sie Möglichkeiten, wie Sie im Unterricht mit formelhaften Wendungen umgehen können, damit auch Ihre Lernenden formelhafte Wendungen sicher in der Kommunikation anwenden können.
+
+Jede Formulierung ist an konkrete Situationen gebunden. Sie kann, muss aber nicht formelhaft sein. Bei formelhaften Formulierungen sind die Wörter nicht frei kombinierbar, sondern haben feste Partner. Das wird von Lernenden oft nicht gesehen, da sie in der Regel Wort für Wort übersetzen. Wer eine Fremdsprache beherrschen möchte, muss daher kombinieren lernen: Dabei können Laute und Zeichen, Morpheme, Wörter zu Wortkombinationen und diese zu Sätzen und Texten kombiniert werden. Wir konzentrieren uns hier vor allem auf die Kombination von Wörtern zu formelhaften Wendungen. Im Folgenden möchten wir mit Ihnen gemeinsam Merkmale formelhafter Wendungen herausarbeiten.
+
+#### Merkmal 1: Mehrgliedrigkeit
+
+Formelhafte Wendungen bestehen in der Regel aus mehreren Wörtern. Im Folgenden sehen Sie eine Auswahl von formelhaften Wendungen, die Ihnen sicher bekannt, aber nicht als formelhafte Wendungen bewusst sind.
+
+![](media/band3_grafik_009_klein.jpg){fig-align="center"}
+
+Wie "formelhaft" bereits sagt, müssen mindestens zwei Teile, also zwei Wörter, in einer Wendung enthalten sein. Wie auch die Beispiele zeigen, bestehen formelhafte Wendungen aus mehreren Komponenten, sind also mehrgliedrig. Lernende müssen dafür sensibilisiert werden, dass Wörter nicht allein, sondern mit Partner(n) auftreten. Die Verbindung zwischen diesen Partnern ist meist sehr eng.
+
+Es gibt auch Fälle, in denen Einzelwörter wie eine formelhafte Wendung gebraucht werden. Hallo! und Prost! gehören z.B. dazu. Mehrgliedrige Wendungen verlieren manchmal ihre Teile, bleiben aber dennoch formelhaft. Muttersprachlerinnen und Muttersprachler sprechen oft schnell und lassen Wörter ausfallen und/oder ziehen sie zusammen. So wird z.B. aus Guten Tag! im Alltag oftmals ein kurzes Tag! Solche Prozesse kommen in allen Sprachen vor. Aus dem Englischen How do you do? wird Howdy! oder aus dem Spanischen ¡Buenas tardes! ein kurzes ¡Buenas!
+
+Vokabellisten in Lehrwerken enthalten meist nur einzelne Wörter. Die Umgebung eines Wortes, also Wörter, die typischerweise gemeinsam mit einem Partner auftreten, werden selten gezeigt, am ehesten noch in Online-Wörterbüchern. Daher werden Ihre Lernenden häufig auch nur nach den Äquivalenten zu Einzelwörtern suchen. Diese Fokussierung auf Einzelwörter lässt sich auch lernpsychologisch gut begründen. Lernende setzen die neu zu lernende Sprache immer in Beziehung zur Erstsprache oder zu bereits erlernten Fremdsprachen und versuchen, die fremdsprachlichen Ausdrücke in das vorhandene, z.B. erstsprachliche System zu integrieren. Sie suchen nach Übersetzungen zu Einzelwörtern. Die Partner dieser Einzelwörter werden dabei meist zu wenig berücksichtigt. Daher sollten Lernende im Unterricht aufgefordert werden, nicht nur Vokabelgleichungen (Haus = home) zu notieren und zu lernen, sondern typische Kombinationen von Wortpartnerschaften in Texten zu markieren und im Vokabelheft zu notieren (zu Hause sein, nach Hause gehen).
+
+Noch anschaulicher ist die Darstellung in einem Wortigel. Er kann neu erlernte und/oder bekannte Kombinationen von Wörtern enthalten. Wir stellen Ihnen im Folgenden eine Möglichkeit vor, wie Sie im Unterricht der Fokussierung Ihrer Lernenden auf einzelne Wörter entgegenwirken und stattdessen ihre Fähigkeit trainieren können, Wörter zu kombinieren. Dazu kann Ihnen fast jeder Text in Ihrem Lehrwerk dienen. Nach der inhaltsorientierten Arbeit (Worum geht es im Text? Was sind die Hauptinformationen?) könnte formorientiert weitergearbeitet werden (Was sind zu einem Schlüsselwort mögliche kombinierbare Partner?).
+
+Im Teilkapitel 1.2 haben Sie gesehen, dass mit Äußerungen konkrete Mitteilungsabsichten verfolgt werden. Wenn Sie Ihre Lernenden auf die Mitteilungsabsicht und die damit verbundene konkrete Formulierung aufmerksam machen möchten, müssen Sie unterstützende Fragen wie im folgenden Beispiel stellen. Sie sehen hier wieder einen Ausschnitt aus unserem Telefongespräch und die Frage, die Sie als Lehrkraft dazu stellen könnten:
+
+![](media/band3_grafik_011_klein.jpg){fig-align="center"}
+ 
+
+Lernende profitieren von dieser funktional orientierten Vorgehensweise, da sie auf diese Weise
+- die formelhaften Wendungen erkennen,
+- die Mitteilungsabsicht erkennen,
+- die formelhaften Wendungen möglichst als Ganzheit/Einheit wahrnehmen und lernen können.
+
+Indem Sie die Aufmerksamkeit Ihrer Lernenden auf formelhafte Wendungen und deren Funktion lenken, können Sie der Fokussierung auf Einzelwörter entgegenwirken und verhindern, dass lange Vokabellisten auswendig gelernt werden.
+
+
+
+#### Merkmal 2: Idiomatizität
+
+Zum Lernprozess Ihrer Lernenden gehört, dass sie formelhafte Wendungen nicht nur als mehrgliedrige, sondern auch als inhaltliche Einheit verstehen. Daher müssen Lernende dafür sensibilisiert werden, dass man die Gesamtbedeutung einer formelhaften Wendung nicht immer anhand der Bedeutung ihrer einzelnen Bestandteile erschließen kann. Dies betrifft das Merkmal der Idiomatizität. Eine formelhafte Wendung ist also idiomatisch, wenn sich die Gesamtbedeutung der Wendung nicht direkt aus der Bedeutung ihrer Bestandteile entschlüsseln lässt. Dabei gibt es unterschiedliche Grade von Idiomatizität. Wir unterscheiden zwischen vollidiomatischen Wendungen, teilidiomatischen Wendungen, nichtidiomatischen Wendungen.
+
+*Vollidiomatische Wendungen*: Bei vollidiomatischen formelhaften Wendungen haben alle Bestandteile ihre Einzelbedeutung zugunsten einer Gesamtbedeutung aufgegeben. In der Wendung jemand macht aus einer Mücke einen Elefanten geht es z.B. nicht um Mücken oder Elefanten, sondern es wird ein Bild entworfen, in dem eine Person aus einer kleinen Sache etwas ganz Großes macht, also sehr stark übertreibt. 
+
+Bei vollidiomatischen Wendungen kann den Lernenden die Bedeutung jedes einzelnen Wortes der Struktur klar sein und trotzdem wird die Wendung nicht verstanden, da die meisten Bestandteile innerhalb der formelhaften Wendung nicht mehr ihre ursprüngliche Bedeutung besitzen, d.h. diese zugunsten der Gesamtbedeutung aufgegeben haben. Daraus ergeben sich Probleme beim Verstehen insbesondere dann, wenn kein ähnlicher Ausdruck in der Erstsprache der Lernenden vorhanden ist.
+
+*Teilidiomatische Wendungen*: Des Weiteren gibt es teilidiomatische Wendungen wie z.B. jemand staunt Bauklötze. Die Bedeutung eines Bestandteils dieser Wendung, nämlich des Verbs staunen, entspricht tatsächlich seiner Bedeutung außerhalb der Wortverbindung. Wenn jemand Bauklötze staunt, dann staunt er, aber natürlich keine Bauklötze, sondern er staunt sehr.
+
+*Nichtidiomatische Wendungen*: Als nichtidiomatische Wendungen werden formelhafte Wendungen verstanden, deren Bedeutung sich auf der Grundlage der Bedeutungen der einzelnen Bestandteile erschließen lässt, z.B. jemand gießt Blumen. Nichtidiomatische Wendungen werden daher meist ohne größere Schwierigkeiten verstanden, leider aber oft nicht als formelhafte Wendung wahrgenommen. Das hat zur Folge, dass sich Lernende bei der Sprachproduktion nicht an den möglichen Partner der Wendung erinnern und frei kombinieren. Und das führt schließlich zu fehlerhaften Äußerungen wie die Zähne waschen, wie wir zu Beginn des Kapitels gesehen haben.
+
+Im Unterschied dazu bemerken Lernende voll- und teilidiomatische Wendungen in Texten sehr schnell, weil ihre Bestandteile zusammen eine schwer zu erklärende oder auch nicht nachvollziehbare Einheit bilden. Beim Lesen von Texten bereiten diese für das Verständnis Schwierigkeiten, da sie meist nur mithilfe von Wörterbüchern entschlüsselt werden können. Zur inhaltlichen Entschlüsselung einer idiomatischen formelhaften Wendung hilft oft der *Kontext*. So kann Silvias Äußerung Ich bin gerade auf dem Sprung mithilfe der folgenden Faktoren gut entschlüsselt werden: 
+- Situationswissen: Silvia ist in Eile, Peter ruft überraschend an, Peter bittet um Adressen, was Silvias Zeit erfordert, die sie gerade nicht hat.
+- Umfeld der Äußerung: Silvias Äußerung Ich muss meine Tochter von der Kita abholen.
+
+Die Situation hilft zum einen, Bedeutungen der formelhaften Wendungen zu entschlüsseln, zum anderen zeigt sie die Bedingungen des Gebrauchs einer formelhaften Wendung. So bedeutet den Löffel abgeben in einem Zeitungsbeispiel mehr als nur sterben, denn es drückt eine verhältnismäßig gleichgültige Haltung zum Sterben aus. Durch den Kontext wird deutlich, dass diese Verbindung in einer eher informellen Situation gebraucht wird und nicht in einer formellen Rede gebraucht werden sollte. Damit Ihre Lernenden den Gebrauch und die Anwendungsbereiche einer formelhaften Wendung kennen und einschätzen können, sollten Sie im Unterricht mit vielen authentischen Texten arbeiten. Eine gute Quelle für solche Texte ist das Internet.
+
+Inwieweit der produktive Gebrauch einer idiomatischen formelhaften Wendung für einen Lernenden relevant ist, entscheidet man je nach Lernziel. Hessky (1997) und Lüger (1997) gehen davon aus, dass Lernende zunächst den rezeptiven Umgang mit idiomatischen Wortverbindungen trainieren sollten und die produktive Verwendung erst auf fortgeschrittenem Niveau erfolgen sollte. In Lernmaterialien werden teil- und vollidiomatische Wendungen daher meist erst ab Niveau B1 behandelt. Andererseits werden in Profile deutsch (Glaboniat u.a. 2005) Wendungen wie Gott sei Dank oder Nehmen Sie bitte Platz, die durchaus als teilidiomatisch eingestuft werden können, auf dem Niveau A2 angeboten. Kontextgestützte Entschlüsselungsstrategien für voll- und teilidiomatische Wendungen sollten also von Anfang an vermittelt werden.
+
+
+
+#### Merkmal 3: Festigkeit
+
+Die Bestandteile formelhafter Wendungen gehen eine sehr enge Verbindung ein und lassen sich daher nicht problemlos durch andere Wörter ersetzen. Ihre Lernenden werden oft unsicher sein, ob und wenn ja, welche Wörter miteinander kombiniert werden können.
+
+Beispiel: Obwohl jeder die Aussage die Pflanze ist gestorben verstehen würde, ist diese Formulierung nicht korrekt. Eine Pflanze stirbt nicht, sie geht ein. Es gibt also Wörter, die bestimmte Partner für eine Kombination bevorzugen, andere Wörter mit ähnlicher Bedeutung sind hingegen ausgeschlossen. Genau wie zwischen Zähne und putzen besteht zwischen Pflanze und eingehen eine besondere Anziehungskraft. Um diese besondere Anziehung zwischen Einzelwörtern zu trainieren, kann mit Multiple-Choice-Übungen gearbeitet werden.
+
+Wir halten zusammenfassend fest:
+
+- Festigkeit ist ein wesentliches Merkmal formelhafter Wendungen.
+- Wörter gehen (relativ) feste Verbindungen mit anderen Wörtern ein.
+- Nichtmuttersprachliche Sprecherinnen und Sprecher sind oft unsicher hinsichtlich der Kombinierbarkeit von Wörtern.
+
+Eine allgemeingültige Regel für die Kombination von Wörtern gibt es leider nicht. Anziehung zwischen Wörtern ist eine Folge häufigen Gebrauchs und kann nicht begründet werden. Deutschsprachige wissen intuitiv, dass eine Kombination mehr oder auch weniger fest ist. Im ersten Schritt geht es also immer darum, Ihre Lernenden für die Festigkeit einer formelhaften Wendung zu sensibilisieren. Dafür haben wir Ihnen unter Merkmal 1 "Mehrgliedrigkeit" bereits die Arbeit mit dem Wortigel und die funktionsbezogenen Fragen zum Text als mögliche Vorgehensweisen vorgestellt.
+
+Die Arbeit mit der im obigen Beispiel vorgestellten Art von Multiple-Choice-Übungen dient der Wiederholung und Festigung formelhafter Wendungen; die Wendung muss Ihren Lernenden dabei bekannt sein. Es handelt sich um einen stark gesteuerten Übungstyp, wobei die Form und nicht die Bedeutung und der Kontext im Mittelpunkt stehen.
+
+#### Merkmal 4: Gebräuchlichkeit
+
+Formelhafte Wendungen, die muttersprachliche Sprechende einer Sprachgemeinschaft besonders häufig verwenden, werden als gebräuchlich bezeichnet. Die Sprechenden einer Sprache haben sich daran gewöhnt, diese Wendungen in genau dieser Kombination von Wörtern zu verwenden.
+
+Hier sind einige Gründe dafür, warum Sprechende in ihrer Erstsprache auf formelhafte Wendungen zurückgreifen.
+
+- Bedürfnisbefriedigung: Mitteilungsabsicht wird realisiert.
+- Gibt Sicherheit im Sprechen; Sicherung des Verstehens
+- Ökonomie: Gebräuchliche Wendungen sind effizient. Reduziert Kognition.
+- Fehlervermeidung: Man drückt sich korrekt aus. Die Fehlerquote reduziert sich.
+- Gruppenzugehörigkeit/Sprachgemeinschaft
+- Erwartungshaltung: Andere Sprechende erwarten gebräuchliche formelhafte Wendungen.
+
+
+Alle diese Gründe sind auch für Ihre Lernenden relevant. Machen Sie Ihren Lernenden daher von Anfang an klar, dass das Erlernen formelhafter Wendungen ein Garant hoher sprachlicher Kompetenz ist, denn die Kenntnis bereits erprobter, gebräuchlicher Wortkombinationen kann sie deutlich in der Sprachproduktion entlasten. Besonders beim spontanen Sprechen wird dadurch der kognitive Aufwand erheblich reduziert. Wer beim Sprechen auf formelhafte Wendungen, die er sicher beherrscht, zurückgreift, spart Zeit zum Nachdenken. Dies ermöglicht flüssiges Sprechen.
+
+
+Lernmaterialien automatisieren frequente formelhafte Wendungen. Automatisierung wird an unterschiedlichsten Stellen in Lehrwerken über verschiedene Formate aufgegriffen. Die Eigenschaften von Automatisierungsübungen lassen sich wie folgt zusammenfassen:
+
+- Automatisierungsübungen zeichnen sich durch eine hohe *Wiederholungsrate* aus, d.h., Ihre Lernenden sprechen die formelhafte Sequenz mehrfach, mit andauerndem Training flüssig und in einem natürlichen Sprechtempo aus und können so die Struktur besser verinnerlichen.
+
+- Bei der zu erlernenden Struktur sollte es sich um ein *übertragbares, relevantes, frequentes und gebräuchliches Äußerungsmuster* handeln.
+
+- Es geht bei Automatisierungsübungen nicht um Drill, sondern um das *Training von Wendungen*, die Ihre Lernenden kommunikations- und handlungsfähig machen. Daher haben die Übungen meist einen Ich-Bezug, d.h., Ihre Lernenden sprechen über sich selbst und ihre Welt.
+
+- Aufgrund der hohen Wiederholungsrate werden die *Äußerungseinheiten nachhaltiger abgespeichert*; dazu ist es notwendig, dass Ihre Lernenden laut sprechen. Fehler sollten durch die Form der Vorgaben ausgeschlossen werden, da diese sonst ebenfalls abgespeichert werden. Wichtig ist auch, dass Sie Ihre Lernenden bei einer Automatisierungsübung nicht unterbrechen.
+
+
+#### Merkmal 5: Phonologische Kohärenz
+
+Studien (z.B. Lin 2010) zeigen, dass formelhafte Wendungen besondere phonologische Eigenschaften besitzen. So werden z.B. Schlüsselwörter in formelhaften Wendungen schneller ausgesprochen und innerhalb einer formelhaften Wendung gibt es keine Pausen. Dies bezeichnet man als *phonologische Kohärenz*. Daraus erklärt sich auch die zum Teil sehr hohe Geschwindigkeit beim Sprechen formelhafter Wendungen. Diese stellt zugleich einen Hinweis auf solche Wendungen dar. Wenn man formelhafte Wendungen schnell und zusammenhängend ausspricht, wird man von Muttersprachlerinnen und Muttersprachlern zudem als kompetenter Gesprächspartner wahrgenommen.
+
+Formelhafte Wendungen sind ein schwer überschaubarer Lerngegenstand, da die Frage, wie viele man in einer Fremdsprache rezeptiv und produktiv beherrschen sollte, generell nicht zu beantworten ist. Eine Antwort darauf hängt von den konkreten Mitteilungsabsichten und jeweiligen Lernzielen der Lernenden ab. Die Sprachhandlungen, die in Lehrwerken in der Regel zu Beginn einer Lektion aufgelistet werden, zeigen auch die Auswahl sprachlicher Mittel. Die Aneignung formelhafter Wendungen ist ein lebenslanger Prozess, den jede Lernerin / jeder Lerner entsprechend ihren/seinen Bedürfnissen steuern muss. Im Unterricht können Sie als Lehrkraft jedoch erste Impulse geben und solche Wendungen beispielhaft üben.
+
+Wichtig ist es, Strategien zu vermitteln, die es Ihren Lernenden erlauben, selbstständig ihr Repertoire an formelhaften Wendungen auszubauen. Dazu gehören das Lenken der Aufmerksamkeit auf die Form komplexer Wendungen (Formfokussierung), das Markieren und systematische Notieren formelhafter Wendungen sowie wie die Entschlüsselung der Bedeutung und der typischen Anwendungsbereiche anhand des Kontextes oder mithilfe des Wörterbuchs.
+
+*Zusammenfassung*: Es gibt fünf wichtige Kriterien zur Bestimmung formelhafter Wendungen: Mehrgliedrigkeit, Idiomatizität, Festigkeit, Gebräuchlichkeit und phonologische Kohärenz. Diese Merkmale geben Hinweise darauf, wie man Lernende für formelhafte Wendungen sensibilisieren kann, wie man diese erklären, üben und nachschlagen kann. Sprachliche Mittel (wie formelhafte Wendungen) als Ganzheit wahrzunehmen und zu produzieren, bewirkt, dass Lernende sehr früh schon spontan sprechen und schreiben können. So können sie sich auf neue Lernziele zu konzentrieren.
+
+## Die Wörter
+
+
+## Der Satz
+
+## Die Intonation und die Laute
+
+## Arbeits mit Informationsquellen
+
+![](media/band2_grafik_001_klein.jpg){fig-align="center"}

@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - dll2.qmd
+    - dll3.qmd
     - references.qmd
   navbar:
     right:
