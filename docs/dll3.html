@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 </head><body class="nav-sidebar floating nav-fixed"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
@@ -93,26 +94,33 @@ document.addEventListener("DOMContentLoaded", function() {
     <span class="navbar-title">Deutsch als Fremdsprache</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/edgar-treischl/DaF_book"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/edgar-treischl/DaF_book" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dll3.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -120,58 +128,67 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Einführung</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Einführung</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dll2.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></a>
+  <a href="./dll2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dll3.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></a>
+  <a href="./dll3.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sprache-als-medium-der-kommunikation" id="toc-sprache-als-medium-der-kommunikation" class="nav-link active" data-scroll-target="#sprache-als-medium-der-kommunikation"><span class="toc-section-number">3.1</span>  Sprache als Medium der Kommunikation</a>
+  <li><a href="#sprache-als-medium-der-kommunikation" id="toc-sprache-als-medium-der-kommunikation" class="nav-link active" data-scroll-target="#sprache-als-medium-der-kommunikation"><span class="header-section-number">3.1</span> Sprache als Medium der Kommunikation</a>
   <ul class="collapse">
-  <li><a href="#funktionen-und-formen-sprachlicher-mittel" id="toc-funktionen-und-formen-sprachlicher-mittel" class="nav-link" data-scroll-target="#funktionen-und-formen-sprachlicher-mittel"><span class="toc-section-number">3.1.1</span>  Funktionen und Formen sprachlicher Mittel</a></li>
-  <li><a href="#wie-funktioniert-sprachliche-kommunikation" id="toc-wie-funktioniert-sprachliche-kommunikation" class="nav-link" data-scroll-target="#wie-funktioniert-sprachliche-kommunikation"><span class="toc-section-number">3.1.2</span>  Wie funktioniert sprachliche Kommunikation?</a></li>
-  <li><a href="#sprache-vermitteln" id="toc-sprache-vermitteln" class="nav-link" data-scroll-target="#sprache-vermitteln"><span class="toc-section-number">3.1.3</span>  Sprache vermitteln</a></li>
+  <li><a href="#funktionen-und-formen-sprachlicher-mittel" id="toc-funktionen-und-formen-sprachlicher-mittel" class="nav-link" data-scroll-target="#funktionen-und-formen-sprachlicher-mittel"><span class="header-section-number">3.1.1</span> Funktionen und Formen sprachlicher Mittel</a></li>
+  <li><a href="#wie-funktioniert-sprachliche-kommunikation" id="toc-wie-funktioniert-sprachliche-kommunikation" class="nav-link" data-scroll-target="#wie-funktioniert-sprachliche-kommunikation"><span class="header-section-number">3.1.2</span> Wie funktioniert sprachliche Kommunikation?</a></li>
+  <li><a href="#sprache-vermitteln" id="toc-sprache-vermitteln" class="nav-link" data-scroll-target="#sprache-vermitteln"><span class="header-section-number">3.1.3</span> Sprache vermitteln</a></li>
   </ul></li>
-  <li><a href="#die-formelhaften-wendungen" id="toc-die-formelhaften-wendungen" class="nav-link" data-scroll-target="#die-formelhaften-wendungen"><span class="toc-section-number">3.2</span>  Die formelhaften Wendungen</a>
+  <li><a href="#die-formelhaften-wendungen" id="toc-die-formelhaften-wendungen" class="nav-link" data-scroll-target="#die-formelhaften-wendungen"><span class="header-section-number">3.2</span> Die formelhaften Wendungen</a>
   <ul class="collapse">
-  <li><a href="#situationsbezug-und-kulturspezifisches-wissen" id="toc-situationsbezug-und-kulturspezifisches-wissen" class="nav-link" data-scroll-target="#situationsbezug-und-kulturspezifisches-wissen"><span class="toc-section-number">3.2.1</span>  Situationsbezug und kulturspezifisches Wissen</a></li>
-  <li><a href="#formelhafte-wendungen-und-ihre-merkmale" id="toc-formelhafte-wendungen-und-ihre-merkmale" class="nav-link" data-scroll-target="#formelhafte-wendungen-und-ihre-merkmale"><span class="toc-section-number">3.2.2</span>  Formelhafte Wendungen und ihre Merkmale</a></li>
+  <li><a href="#situationsbezug-und-kulturspezifisches-wissen" id="toc-situationsbezug-und-kulturspezifisches-wissen" class="nav-link" data-scroll-target="#situationsbezug-und-kulturspezifisches-wissen"><span class="header-section-number">3.2.1</span> Situationsbezug und kulturspezifisches Wissen</a></li>
+  <li><a href="#formelhafte-wendungen-und-ihre-merkmale" id="toc-formelhafte-wendungen-und-ihre-merkmale" class="nav-link" data-scroll-target="#formelhafte-wendungen-und-ihre-merkmale"><span class="header-section-number">3.2.2</span> Formelhafte Wendungen und ihre Merkmale</a></li>
   </ul></li>
-  <li><a href="#die-wörter" id="toc-die-wörter" class="nav-link" data-scroll-target="#die-wörter"><span class="toc-section-number">3.3</span>  Die Wörter</a></li>
-  <li><a href="#der-satz" id="toc-der-satz" class="nav-link" data-scroll-target="#der-satz"><span class="toc-section-number">3.4</span>  Der Satz</a></li>
-  <li><a href="#die-intonation-und-die-laute" id="toc-die-intonation-und-die-laute" class="nav-link" data-scroll-target="#die-intonation-und-die-laute"><span class="toc-section-number">3.5</span>  Die Intonation und die Laute</a></li>
-  <li><a href="#arbeits-mit-informationsquellen" id="toc-arbeits-mit-informationsquellen" class="nav-link" data-scroll-target="#arbeits-mit-informationsquellen"><span class="toc-section-number">3.6</span>  Arbeits mit Informationsquellen</a></li>
+  <li><a href="#die-wörter" id="toc-die-wörter" class="nav-link" data-scroll-target="#die-wörter"><span class="header-section-number">3.3</span> Die Wörter</a>
+  <ul class="collapse">
+  <li><a href="#die-bedeutung-von-wörtern" id="toc-die-bedeutung-von-wörtern" class="nav-link" data-scroll-target="#die-bedeutung-von-wörtern"><span class="header-section-number">3.3.1</span> Die Bedeutung von Wörtern</a></li>
+  <li><a href="#das-substantiv" id="toc-das-substantiv" class="nav-link" data-scroll-target="#das-substantiv"><span class="header-section-number">3.3.2</span> Das Substantiv</a></li>
+  </ul></li>
+  <li><a href="#der-satz" id="toc-der-satz" class="nav-link" data-scroll-target="#der-satz"><span class="header-section-number">3.4</span> Der Satz</a></li>
+  <li><a href="#die-intonation-und-die-laute" id="toc-die-intonation-und-die-laute" class="nav-link" data-scroll-target="#die-intonation-und-die-laute"><span class="header-section-number">3.5</span> Die Intonation und die Laute</a></li>
+  <li><a href="#arbeits-mit-informationsquellen" id="toc-arbeits-mit-informationsquellen" class="nav-link" data-scroll-target="#arbeits-mit-informationsquellen"><span class="header-section-number">3.6</span> Arbeits mit Informationsquellen</a></li>
   </ul>
 </nav>
     </div>
@@ -180,7 +197,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></h1>
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></h1>
 </div>
 
 
@@ -419,6 +436,125 @@ document.addEventListener("DOMContentLoaded", function() {
 </section>
 <section id="die-wörter" class="level2" data-number="3.3">
 <h2 data-number="3.3" class="anchored" data-anchor-id="die-wörter"><span class="header-section-number">3.3</span> Die Wörter</h2>
+<p>In diesem Kapitel befassen wir uns damit, - wie das Verhältnis zwischen Wörtern und dem, was sie in der Wirklichkeit bezeichnen, ist, also mit der Bedeutung von Wörtern, - was nötig ist, damit zwei Kommunikationspartner unter einem Wort dasselbe verstehen, also mit der kulturellen, individuellen oder situativen Bedeutung von Wörtern, - welche Funktion einzelne Wortarten innerhalb gelingender Kommunikation haben, - welche formalen Merkmale (Regeln der Flexion) einzelne Wortarten haben oder erfordern.</p>
+<section id="die-bedeutung-von-wörtern" class="level3" data-number="3.3.1">
+<h3 data-number="3.3.1" class="anchored" data-anchor-id="die-bedeutung-von-wörtern"><span class="header-section-number">3.3.1</span> Die Bedeutung von Wörtern</h3>
+<p>Die sieben Wörter, die die Kinder (siehe Film) erraten, sind sogenannte Autosemantika. Sie bezeichnen Dinge, die es in der Wirklichkeit gibt, wie z.B. Blume. Aber auch die Wörter groß und bunt, die die Kinder benutzen, um die Blume zu beschreiben, gehören in diese Kategorie. Dadurch, dass ein Wort existiert, das ein in der Wirklichkeit existierendes Ding (Blume) repräsentiert, können wir Blumen in der Kommunikation „auftreten“ lassen, ohne auf sie real zeigen zu müssen. Ebenso brauchen wir sprachliche Bezeichnungen wie groß, bunt usw. für die Beschreibung von Größe oder Farbe und Bezeichnungen für Geschehnisse/Vorgänge wie gießen oder sehen.</p>
+<p>Allerdings sind, wenn wir von der sprachlichen Repräsentation der Welt sprechen, zwei Einschränkungen zu machen. Die erste betrifft alle Sprachen und beschreibt das Verhältnis zwischen Wörtern und der objektiven Wirklichkeit: Tatsächlich bezeichnen die Wörter ja nur eine Vorstellung von real existierenden Dingen, sie bilden nicht die objektive Wirklichkeit ab. Wörter sind Ausdruck dessen, wie wir diese Wirklichkeit wahrnehmen und verstehen. Mit dem Wort Stuhl z.B. können wir unzählige Typen von Stühlen bezeichnen.</p>
+<p>Das Ergebnis unserer Abstraktionsleistung ist es, diesen vielen möglichen Typen von Stühlen Merkmale zuzuordnen, die all den unterschiedlichen realen Stühlen gemeinsam sind, also einen Prototypen eines Stuhls zu beschreiben. Dieser hat in der Regel vier Beine, eine Rückenlehne usw. Allerdings werden die Mitglieder der Kategorie Stuhl nicht alle gleich behandelt: Während einige Mitglieder als typisch gelten, werden andere als untypisch eingeschätzt.</p>
+<p>Eine zweite Einschränkung betrifft einzelne Sprachen und ist für die Vermittlung einer Fremdsprache von besonderer Bedeutung. Hinter den Wörtern stehen, wie gesagt, Begriffe, die auch kulturspezifisch geprägt sein können. Nehmen wir z.B. das Substantiv Baum. Während im Deutschen damit meist ein Laubbaum oder ein Nadelbaum bezeichnet wird, kann im Kopf eines nichtdeutschen Kommunikationsteilnehmers ein anderes Bild mit dem Wort Baum assoziiert werden (z.B. eine Palme).</p>
+<p>Die kulturelle Geprägtheit von Wörtern zeigt sich z.B. auch bei Verben. Während das Deutsche z.B. mit dem Verb rauchen so unterschiedliche Vorgänge wie das Inhalieren und Ausstoßen von Zigarettenrauch und das Aufsteigen von Rauch aus einem Schornstein ausdrückt, rechnet das Türkische den Vorgang des Zigarettenrauchens zu den Trinkvorgängen. Auch Suppen werden im Türkischen vor allem als Flüssigkeit wahrgenommen und deswegen getrunken und nicht wie im Deutschen gegessen.</p>
+<p>Neben den Autosemantika gibt es eine zweite Gruppe von Wörtern. Zu dieser gehören Wörter wie <em>in und trotz, weil und dass</em>. Weil sie ihre semantischen Bedeutungen bzw. Leistungen erst zusammen mit weiteren Wörtern und Wortgruppen erhalten, werden sie als Synsemantika bezeichnet. Aber lassen Sie sich nicht verwirren: Manche Wörter können sowohl als Synsemantika als auch als Autosemantika fungieren.</p>
+<p>Frequenz besagt nicht automatisch, dass frequente Wörter für Lernende persönlich relevant sind, und Wörter, die weniger frequent sind, keine Relevanz haben. Für einzelne Lernende wichtige Wörter wie z.B. Bäcker oder Strümpfe können in einem Frequenzwörterbuch fehlen (Jones/Tschirner 2006). Für den Erwerb von Wörtern, die konkrete Dinge und sichtbare Eigenschaften unserer Welt repräsentieren, ist es sinnvoll, die Eigenschaft dieser Wörter zu nutzen. In dem Video der Deutschen Schule Barcelona haben Sie gesehen, dass die Lehrerin die Bedeutung der Wörter durch Bilder illustriert. Visualisierungen dieser Art sind sehr hilfreich.</p>
+<p><em>Zusammenfassung</em>: Wörter sind Repräsentationen der Wirklichkeit, die diese aber nicht 1:1 abbilden. Sie stützen sich vielmehr auf Konzepte von Sprecherinnen und Sprechern einer Sprache und sind kulturell markiert, d.h., die Vorstellung von real existierenden Dingen kann in einer anderen Kultur anders sein. Beim Erwerb einer Fremdsprache ist es deshalb wichtig, sich das bewusst zu machen, um die Bedeutung von Wörtern in der Zielsprache richtig erfassen bzw. richtig vermitteln zu können.</p>
+</section>
+<section id="das-substantiv" class="level3" data-number="3.3.2">
+<h3 data-number="3.3.2" class="anchored" data-anchor-id="das-substantiv"><span class="header-section-number">3.3.2</span> Das Substantiv</h3>
+<p>Am Ende dieses Teilkapitels - wissen Sie, dass es verschiedene Bedeutungsklassen von Substantiven gibt, die Auswirkungen auf ihre Form haben, - kennen Sie formale Eigenschaften und Funktionen von Genus, Numerus und Kasus, - wissen Sie, welche Funktion Artikel übernehmen.</p>
+<p>Fasst man die Funktion der Substantive in der deutschen Sprache zusammen, so repräsentieren sie konkrete Dinge der Wirklichkeit und abstrakte Begriffe, die entweder Akteure/Verursacher oder Betroffene/Resultate von Vorgängen und Handlungen sind. In dieser Funktion sind sie Subjekte oder Objekte in einem Satz. Auf die Funktion des Subjekts und von Objekten in einem Satz gehen wir in Kapitel 4 ein.</p>
+<section id="substantive-ihre-funktion-und-formalen-merkmale" class="level4" data-number="3.3.2.1">
+<h4 data-number="3.3.2.1" class="anchored" data-anchor-id="substantive-ihre-funktion-und-formalen-merkmale"><span class="header-section-number">3.3.2.1</span> Substantive, ihre Funktion und formalen Merkmale</h4>
+<p>Um Funktionen und formale Merkmale von Substantiven beschreiben zu können, unterscheiden wir drei grundlegende Bedeutungsklassen (siehe Eisenberg 2004), die wir anhand ihrer formalen Eigenschaften vorstellen möchten: Gattungsnamen, Stoffsubstantive und Eigennamen.</p>
+<p><em>Gattungsnamen</em>: Die erste und zahlenmäßig größte Gruppe bilden Substantive, die konkrete und abstrakte Dinge in der Wirklichkeit benennen. Sie werden Gattungsnamen genannt, weil sie nicht für ein einzelnes konkretes “Ding” stehen, sondern für alle vorkommenden und zählbaren Vertreter ihrer Art. Egal wie verschieden sie im Einzelnen aussehen mögen und was ihr Inhalt ist: Alle Tische und Ideen dieser Welt heißen zunächst einmal Tisch und Idee.</p>
+<p>Gattungsnamen lassen sich in bestimmte Gruppen einordnen. Diese Gruppierungen sind nach folgenden Prinzipien möglich:</p>
+<ul>
+<li>Ober- und Unterbegriffe (Hyperonym Hyponym)</li>
+<li>Teil vom Ganzen (Meronymie)</li>
+<li>Kontext</li>
+</ul>
+<p>Da auch Ihre Lernenden solche Ordnungen in ihren Köpfen haben, lässt sich Wortschatz durch die Zuordnung zu Gruppen lernpsychologisch sinnvoller als in Form von alphabetischen Listen erwerben. Wir – und das heißt auch unsere Lernenden – haben in unseren Köpfen also keine alphabetisch geordneten Wörterlisten, sondern thematisch zusammenhängende Wörternetze. Diese Art von Gruppierungen ist für Memorierungsspiele im Unterricht sehr gut geeignet.</p>
+<p>Ein Hinweis noch: Im Plural bilden Gattungsnamen Nominalphrasen ohne Artikel, wenn damit ausgedrückt werden soll, dass es sich um die Gattung handelt und nicht um konkrete einzelne Vertreter dieser Gattung, z.B. <em>Kamele</em> können zwei Wochen in der Wüste überleben ohne zu trinken.</p>
+<p><em>Stoffsubstantive</em>: Die zweite Gruppe von Substantiven bilden die sogenannten Stoffsubstantive. Damit bezeichnet man Substantive, die ihrer Bedeutung nach Grundsubstanzen und Materialien benennen wie Glas oder Wasser. Das Besondere und gleichzeitig für Lernende Verwirrende an ihnen ist, dass sie ohne Genus und/oder Artikel auftreten wie z.B. im Ausdruck etwas ist aus Holz. Hier sind weder Genus noch Kasus (die Präposition aus verlangt normalerweise den Dativ) erkennbar und es fehlt das Artikelwort. Diese Substantive haben folgende formale Eigenschaften gemeinsam:</p>
+<table class="table">
+<colgroup>
+<col style="width: 51%">
+<col style="width: 48%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>formale Eigenschaften von Stoffsubstantiven</th>
+<th>Beispiel</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sie stehen im Singular ohne Artikelwort.</td>
+<td>Aluminium ist leichter als Stahl.</td>
+</tr>
+<tr class="even">
+<td>Sie stehen im Singular ohne Kasusmarkierung.</td>
+<td>Die Fassade ist aus Glas.</td>
+</tr>
+<tr class="odd">
+<td>Sie stehen im Singular mit Kasusmarkierung am Adjektiv.</td>
+<td>Die Fassade ist aus kugelsicherem Glas.</td>
+</tr>
+<tr class="even">
+<td>Der Plural wird nur verwendet, wenn verschiedene Unterarten eines Stoffes bezeichnet werden.</td>
+<td>Zum Kochen sollte man am besten pflanzliche Öle wie Olivenöl oder Sonnenblumenöl verwenden.</td>
+</tr>
+<tr class="odd">
+<td>Zu manchen Stoffbezeichnungen gibt es keinen “normalen” Plural, sondern nur Pluralumschreibungen.</td>
+<td>Im Supermarkt kann man verschiedene Milchsorten kaufen.</td>
+</tr>
+</tbody>
+</table>
+<p>Gattungsnamen werden manchmal wie Stoffsubstantive verwendet und haben dann die gleichen formalen Eigenschaften, um diese besondere Verwendung anzuzeigen. Das zeigt uns einmal mehr, wie eng Form und Funktion in einer Sprache aufeinander bezogen sind, z.B.: aus Wut – mit Gewalt – Liebe ist nur ein Wort – Grippe/Schnupfen/Krebs haben.</p>
+<p><em>Eigennamen</em>: Als Vor- oder Nachnamen von Personen oder als Firmennamen werden sie zur Bezeichnung von konkreten Individuen verwendet und brauchen deshalb bei ihrer Nennung keine weitere “Einführung”, also keinen Artikel. Firmennamen funktionieren wie Eigennamen, sie werden ohne Artikelwort verwendet, jedenfalls dann, wenn die Firma selbst und nicht eines ihrer Produkte gemeint ist. Spricht jemand von der/ein VW ist immer nur das Auto, nie aber die Firma gemeint. Zu der formalen Eigenschaft von Eigennamen, keinen Artikel zu benötigen, gibt es einige wenige Ausnahmen: Stellt sich eine konkrete Person mit Artikel vor, so will sie/er damit etwas vom Normalfall Abweichendes akzentuieren.</p>
+<p><em>Markierung von Substantiven</em>: Sie haben sich nun mit den jeweiligen Bedeutungsklassen von Substantiven befasst. Aber Substantive treten selten in ihrer Grundform auf, sondern sie haben oft weitere Kennzeichnungen, z.B. ein Plural-s oder die Markierung des Kasus, der meist an der Markierung des Artikels (z.B. dem statt der) zu erkennen ist.</p>
+<p>Das für Lernende Spannende ist ja gerade, dass Substantive der Flexion unterliegen, d.h., sie werden markiert, um <em>Genus</em> (der/die/das) , <em>Numerus</em> (Singular/Plural) und <em>Kasus</em> (Nominativ/Genitiv/Dativ/Akkusativ) anzuzeigen. Gattungsnamen und Stoffsubstantive bilden im Singular in der Regel zusammen mit einem Artikel und vielleicht auch noch einem Adjektiv usw. eine sogenannte Nominalphrase.</p>
+<p>Substantive schaffen es nicht allein schaffen, eine Mitteilungsabsicht zu realisieren. Dazu bedarf es weiterer Kennzeichnungen, z.B. durch das Plural-s oder durch die Markierung des Kasus mithilfe der Deklination eines Artikels. Im Folgenden befassen wir uns mit den sogenannten Begleitern von Substantiven, die der Flexion unterliegen, d.h. die dekliniert werden und Markierungen tragen, um Genus, Numerus und Kasus von Nominalphrasen anzuzeigen.</p>
+</section>
+<section id="das-genus-der-substantive" class="level4" data-number="3.3.2.2">
+<h4 data-number="3.3.2.2" class="anchored" data-anchor-id="das-genus-der-substantive"><span class="header-section-number">3.3.2.2</span> Das Genus der Substantive</h4>
+<p>Das Genus der deutschen Substantive ist fraglos für alle Lernenden ein Stolperstein auf dem Weg zu grammatisch korrekten Äußerungen. Besonders schwierig scheint es für diejenigen Lernenden zu sein, deren Erstsprachen ohne grammatisches Geschlecht, also ohne Genus auskommen, was etwa für die Hälfte aller Sprachen zutrifft, darunter Englisch, Japanisch und Türkisch.</p>
+<p>Alle drei Genusklassen tragen damit Bezeichnungen, mit denen allgemeinsprachlich ganz bestimmte natürliche Eigenschaften wie männlich oder weiblich oder abstrakte Eigenschaften wie sächlich/unbelebt benannt werden. Das deutet auf eine Zuweisung des Genus nach der Bedeutung hin, in diesem Falle wäre das Genus also semantisch begründet. Zumindest trifft zu, dass bei Bezeichnungen für Menschen und oft auch für Tiere das grammatische Geschlecht (Genus) mit dem natürlichen Geschlecht (Sexus) übereinstimmt.</p>
+<p>Warum aber ist das Mädchen seinem grammatischen Geschlecht nach ein Neutrum? Es erklärt sich daraus, dass das Mädchen bis ins 17. Jahrhundert das Mägdchen als Diminutiv zu Magd in der Bedeutung einer jungen, unverheirateten Frau war. Diminutiva auf -chen sind alle Neutrum, auch das Männchen.</p>
+<p>Anders als Kasus und Numerus gehört das Genus nicht zu den veränderlichen Eigenschaften der Substantive. Vieles am Substantiv kann sich ändern: Es kann im Genitiv stehen, sodass aus (das) Haus (des) Hauses wird, es tritt im Plural als Häuser auf, aber dass das Substantiv Haus ein Neutrum ist, ist unveränderlich. Diese Feststellung ist deswegen bedeutsam, weil sich das Genus bei der großen Mehrheit der Substantive nicht durch eigene formale Merkmale oder deren semantische Eigenschaften zu erkennen gibt. In einigen Fällen weisen die Substantive aber auch Merkmale auf, die auf ihr Genus schließen lassen:</p>
+<ul>
+<li>Suffix <em>-chen</em>: (das) Brötchen</li>
+<li>Suffix <em>-in</em>: (die) Lehrerin</li>
+<li>Suffix <em>-heit /-keit</em>: (die) Fertigkeit</li>
+</ul>
+<p>Hier geben wir Ihnen eine kurze Zusammenfassung der wesentlichen Regeln der Genuszuweisung im Deutschen:</p>
+<ul>
+<li>In semantischer Hinsicht stimmen insbesondere bei Personenbezeichnungen das natürliche und das grammatische Geschlecht überein.</li>
+<li>In einigen Fällen stimmt <em>das grammatische Geschlecht einer Gruppe</em> auch mit deren Unterbegriffen im Genus überein, z.B. sind <em>alle Substantive der Gruppe Monat</em> ebenfalls maskulin.</li>
+<li>Eine Reihe von Substantiven bekommt ihr Genus aufgrund bestimmter <em>morphologischer Merkmale</em>, z.B. durch <em>Suffixe wie -heit für feminin, -lein für neutrum und -er für maskulin</em>.</li>
+<li>Für die große Mehrheit aller Substantive gibt es aber keine systematischen Zusammenhänge zwischen dem Genus und den formalen oder semantischen Eigenschaften der Substantive. Die Genuszuweisung ist arbiträr.</li>
+</ul>
+<p>Für Lernende ist es motivierend zu erfahren, dass es aber doch einige Regeln der Genuszuweisung gibt, die zur Memorierung des Genus hilfreich sein können. Sehen Sie dazu im Folgenden einen Ausschnitt aus einem Lernmaterial, der die Grundregeln der Genuszuweisung darstellt.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/band3_scan_016_klein.jpg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>Für Lernende ist es relevant und erleichternd, dass sie erfahren, dass die Genusmarkierung in Nominalphrasen, die Adjektive enthalten, entweder am Artikel oder am Adjektiv zu sehen ist. Dies bezeichnet man als das Prinzip der Monoflexion. Diese wird im folgenden Material sehr gut dargestellt:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/band3_scan_017_klein.jpg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>In den obigen Beispielen der Darstellung von Regeln der Genuszuweisung wird etwas Wesentliches sichtbar: Das Genus eines Substantivs ist sehr häufig nur durch die flektierten sogenannten Begleiter, also Artikel oder Adjektive usw., zu erkennen. Allerdings trifft das nur für den Singular zu. In den Pluralformen unterscheiden sich die Substantive nicht explizit nach dem Genus, d.h., das Genus wird im Plural der Substantive nicht markiert.</p>
+<p>Was aber ist die Funktion des Genus? Das Genus hat, wie wir festgestellt haben, nicht vorrangig eine semantische Funktion, also klarzustellen, welches natürliche Geschlecht ein Substantiv hat, sondern das Genus hilft, Zusammenhänge innerhalb von Nominalphrasen oder Sätzen zu erkennen. Man spricht deshalb von der strukturierenden Funktion des Genus. Sehen Sie selbst:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/band3_grafik_017_klein.jpg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>Sie haben sicher schnell erkannt, dass der Artikel sich nur auf das Substantiv am Ende der Nominalphrase beziehen kann, dass er die dazwischenstehenden Elemente quasi einklammert. Die Genusübereinstimmung von Artikel und Substantiv ermöglicht also in längeren Nominalphrasen, dass kommunikative Einheiten verstanden werden. Deshalb nennt man diese Funktion des Genus auch strukturell-kommunikativ.</p>
+<p>Die zweite Funktion betrifft die Funktion des Genus im Kontext von Pronomen. Das Genus ermöglicht auch hier zu erkennen, wie Nomen und Pronomen zusammenhängen, also zu bestimmen, worauf sich Pronomen beziehen. Sehen wir uns dazu den folgenden Beispielsatz an: “Helmut Schmidts Engagement für eine Annäherung ist zum Scheitern verurteilt, weil er auf das Wohlwollen der Opposition angewiesen ist”.</p>
+<p>Da das Subjekt dieses Satzes, nämlich Schmidts Engagement für eine Annäherung je ein Nomen im Maskulinum, Femininum und Neutrum enthält und sich der Nebensatz auf jedes dieser Nomen beziehen könnte, entscheidet allein die <em>Wahl des Pronomens</em> er, auf <em>welches Nomen des Hauptsatzes sich das Pronomen des Nebensatzes bezieht</em>, nämlich auf Helmut Schmidt. Wäre Engagement das Nomen, auf das sich der Nebensatz bezieht, müsste das Pronomen es heißen, wäre Annäherung das Nomen, auf das sich der Nebensatz bezieht, müsste das Pronomen sie heißen.</p>
+<p>Aus unserer Sicht ist es wichtig, die kommunikationsrelevanten Funktionen des Genus zu kennen und diese den Lernenden transparent zu machen, damit die durch das Genus verursachten Mühen beim Erwerb der deutschen Sprache erträglicher gemacht werden. Vor allem bei der Rezeption von Texten ist die Erkenntnis entscheidend, dass die Markierung des Genus in den Begleitern eines Substantivs hilfreich ist, um Anfang und Ende von Nominalphrasen als zusammenhängende kommunikative Einheiten und die Bezüge zwischen den Nomen und Pronomen in Texten zu erkennen.</p>
+<p>Auf die berechtigte Frage, wie hilfreich die Vermittlung von Regeln zum Genus für dessen Erwerb ist, müssen wir eingestehen: Wir wissen darüber nichts Genaues. Ein Grund dafür ist, dass es keine empirischen Untersuchungen zum Genuserwerb im Unterricht gibt, sei es mit oder ohne Regelunterstützung. Aus Untersuchungen des Zweitspracherwerbs von Kindern wissen wir, dass das Genus aufgrund der höheren Funktionalität von Kasus (u.a. Unterscheidung von Subjekt vs.&nbsp;Objekt) und Numerus (Kennzeichnung von Singular vs.&nbsp;Plural) lange Zeit „unentdeckt“ bleibt und erst dann wahrgenommen und gebraucht wird, wo es zur Markierung des biologischen Geschlechts, also männliche oder weibliche Person bzw. Tier, beiträgt.</p>
+<p>Gerade weil die Substantive und ihre Formeigenschaften so fundamentale Bausteine von Sprachhandlungen sind und der Umgang mit ihnen die Lernenden durch alle Kompetenzstufen hindurch begleitet, lohnt es sich, im DaF-Unterricht von Anfang an nachhaltige Lehr- und Lernwege zu gestalten, die sicherstellen, dass Lernende Strategien zum Genuserwerb entwickeln.</p>
+<p>Wie wir wissen, ist Regelwissen nur eine Möglichkeit, das korrekte Genus eines Substantivs im Gedächtnis zu verankern, zumal es ja für eine große Menge von Substantiven eben keine Regeln dazu gibt. Das Genus muss lexikalisch angeeignet werden. Und hier greifen die Erkenntnisse aus der Lernpsychologie, dass Lernenden möglichst viele Wege der Verankerung im Gedächtnis angeboten werden (sollen).</p>
+<p>Trotz aller Hilfen und Strategien zum Memorieren der Genera der Substantive gilt sicherlich, dass nur ein häufiges Wiederholen und Üben, also eine Automatisierung, zum Ziel führt, und zwar durch lautes Lesen, Im-Chor-Sprechen und die Verwendung der Substantive mit ihren Begleitern in kommunikativen Kontexten. Das ist deshalb wichtig, da die konkreten Genusmerkmale zusammen mit Kasus- und Numerusmarkierungen auftreten. Es braucht einen langen Atem, bis sich Lernende in der mündlichen Produktion bei der korrekten Bildung von Nominalphrasen dem Standard nähern. Aufseiten der Lehrenden bedarf es im Umgang mit dabei vorkommenden Fehlern viel Geduld. Wir können uns aus diesem Grund der oben wiedergegebenen Auffassung “Das Genus kann man nur lernen, wenn Genusfehler systematisch und immer, wenn sie auftreten, korrigiert werden” nicht anschließen. Ein solches Korrekturverhalten würde dazu führen, dass die Lernenden verstummen und damit den erfolgreichsten Weg zur Erlangung von Sprachkompetenz, d.h. das Anwenden und Ausprobieren des Gelernten in freier Kommunikation, nicht gehen und somit keine Freude mehr am Sprachenlernen haben. Das aber wollen und müssen wir verhindern!</p>
+</section>
+<section id="zur-pluralmarkierung-der-substantive" class="level4" data-number="3.3.2.3">
+<h4 data-number="3.3.2.3" class="anchored" data-anchor-id="zur-pluralmarkierung-der-substantive"><span class="header-section-number">3.3.2.3</span> Zur Pluralmarkierung der Substantive</h4>
+</section>
+</section>
 </section>
 <section id="der-satz" class="level2" data-number="3.4">
 <h2 data-number="3.4" class="anchored" data-anchor-id="der-satz"><span class="header-section-number">3.4</span> Der Satz</h2>
@@ -465,9 +601,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -532,6 +682,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

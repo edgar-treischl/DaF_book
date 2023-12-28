@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 </head><body class="nav-sidebar floating nav-fixed"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
@@ -93,26 +94,33 @@ document.addEventListener("DOMContentLoaded", function() {
     <span class="navbar-title">Deutsch als Fremdsprache</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/edgar-treischl/DaF_book"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/edgar-treischl/DaF_book" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./dll2.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -120,70 +128,75 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Einführung</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Einführung</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dll2.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></a>
+  <a href="./dll2.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./dll3.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></a>
+  <a href="./dll3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL3)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#welche-faktoren-bestimmen-das-lernen" id="toc-welche-faktoren-bestimmen-das-lernen" class="nav-link active" data-scroll-target="#welche-faktoren-bestimmen-das-lernen"><span class="toc-section-number">2.1</span>  Welche Faktoren bestimmen das Lernen?</a></li>
-  <li><a href="#wie-lernt-man-eigentlich-fremdsprachen" id="toc-wie-lernt-man-eigentlich-fremdsprachen" class="nav-link" data-scroll-target="#wie-lernt-man-eigentlich-fremdsprachen"><span class="toc-section-number">2.2</span>  Wie lernt man eigentlich Fremdsprachen?</a>
+  <li><a href="#welche-faktoren-bestimmen-das-lernen" id="toc-welche-faktoren-bestimmen-das-lernen" class="nav-link active" data-scroll-target="#welche-faktoren-bestimmen-das-lernen"><span class="header-section-number">2.1</span> Welche Faktoren bestimmen das Lernen?</a></li>
+  <li><a href="#wie-lernt-man-eigentlich-fremdsprachen" id="toc-wie-lernt-man-eigentlich-fremdsprachen" class="nav-link" data-scroll-target="#wie-lernt-man-eigentlich-fremdsprachen"><span class="header-section-number">2.2</span> Wie lernt man eigentlich Fremdsprachen?</a>
   <ul class="collapse">
-  <li><a href="#was-weiß-man-über-das-lernen" id="toc-was-weiß-man-über-das-lernen" class="nav-link" data-scroll-target="#was-weiß-man-über-das-lernen"><span class="toc-section-number">2.2.1</span>  Was weiß man über das Lernen:</a></li>
+  <li><a href="#was-weiß-man-über-das-lernen" id="toc-was-weiß-man-über-das-lernen" class="nav-link" data-scroll-target="#was-weiß-man-über-das-lernen"><span class="header-section-number">2.2.1</span> Was weiß man über das Lernen:</a></li>
   <li><a href="#lerntheorien" id="toc-lerntheorien" class="nav-link" data-scroll-target="#lerntheorien">Lerntheorien</a></li>
-  <li><a href="#was-weiß-man-über-den-spracherwerb" id="toc-was-weiß-man-über-den-spracherwerb" class="nav-link" data-scroll-target="#was-weiß-man-über-den-spracherwerb"><span class="toc-section-number">2.2.2</span>  Was weiß man über den Spracherwerb?</a></li>
-  <li><a href="#konsequenzen-für-den-unterricht" id="toc-konsequenzen-für-den-unterricht" class="nav-link" data-scroll-target="#konsequenzen-für-den-unterricht"><span class="toc-section-number">2.2.3</span>  Konsequenzen für den Unterricht</a></li>
-  <li><a href="#worin-unterscheiden-sich-meine-lernenden" id="toc-worin-unterscheiden-sich-meine-lernenden" class="nav-link" data-scroll-target="#worin-unterscheiden-sich-meine-lernenden"><span class="toc-section-number">2.2.4</span>  Worin unterscheiden sich meine Lernenden?</a></li>
-  <li><a href="#zusammenfassung" id="toc-zusammenfassung" class="nav-link" data-scroll-target="#zusammenfassung"><span class="toc-section-number">2.2.5</span>  Zusammenfassung</a></li>
+  <li><a href="#was-weiß-man-über-den-spracherwerb" id="toc-was-weiß-man-über-den-spracherwerb" class="nav-link" data-scroll-target="#was-weiß-man-über-den-spracherwerb"><span class="header-section-number">2.2.2</span> Was weiß man über den Spracherwerb?</a></li>
+  <li><a href="#konsequenzen-für-den-unterricht" id="toc-konsequenzen-für-den-unterricht" class="nav-link" data-scroll-target="#konsequenzen-für-den-unterricht"><span class="header-section-number">2.2.3</span> Konsequenzen für den Unterricht</a></li>
+  <li><a href="#worin-unterscheiden-sich-meine-lernenden" id="toc-worin-unterscheiden-sich-meine-lernenden" class="nav-link" data-scroll-target="#worin-unterscheiden-sich-meine-lernenden"><span class="header-section-number">2.2.4</span> Worin unterscheiden sich meine Lernenden?</a></li>
+  <li><a href="#zusammenfassung" id="toc-zusammenfassung" class="nav-link" data-scroll-target="#zusammenfassung"><span class="header-section-number">2.2.5</span> Zusammenfassung</a></li>
   </ul></li>
-  <li><a href="#wie-lernt-man-sprachen-zu-lernen" id="toc-wie-lernt-man-sprachen-zu-lernen" class="nav-link" data-scroll-target="#wie-lernt-man-sprachen-zu-lernen"><span class="toc-section-number">2.3</span>  Wie lernt man Sprachen zu lernen?</a>
+  <li><a href="#wie-lernt-man-sprachen-zu-lernen" id="toc-wie-lernt-man-sprachen-zu-lernen" class="nav-link" data-scroll-target="#wie-lernt-man-sprachen-zu-lernen"><span class="header-section-number">2.3</span> Wie lernt man Sprachen zu lernen?</a>
   <ul class="collapse">
-  <li><a href="#wie-reflektiert-man-das-eigene-lernen" id="toc-wie-reflektiert-man-das-eigene-lernen" class="nav-link" data-scroll-target="#wie-reflektiert-man-das-eigene-lernen"><span class="toc-section-number">2.3.1</span>  Wie reflektiert man das eigene Lernen?</a></li>
-  <li><a href="#wie-leitet-man-selbstständiges-lernen-an" id="toc-wie-leitet-man-selbstständiges-lernen-an" class="nav-link" data-scroll-target="#wie-leitet-man-selbstständiges-lernen-an"><span class="toc-section-number">2.3.2</span>  Wie leitet man selbstständiges Lernen an?</a></li>
-  <li><a href="#wie-leitet-man-systematisches-lernen-an" id="toc-wie-leitet-man-systematisches-lernen-an" class="nav-link" data-scroll-target="#wie-leitet-man-systematisches-lernen-an"><span class="toc-section-number">2.3.3</span>  Wie leitet man systematisches Lernen an?</a></li>
-  <li><a href="#wie-schafft-man-raum-für-individualität-und-selbstständigkeit" id="toc-wie-schafft-man-raum-für-individualität-und-selbstständigkeit" class="nav-link" data-scroll-target="#wie-schafft-man-raum-für-individualität-und-selbstständigkeit"><span class="toc-section-number">2.3.4</span>  Wie schafft man Raum für Individualität und Selbstständigkeit?</a></li>
-  <li><a href="#zusammenfassung-1" id="toc-zusammenfassung-1" class="nav-link" data-scroll-target="#zusammenfassung-1"><span class="toc-section-number">2.3.5</span>  Zusammenfassung</a></li>
+  <li><a href="#wie-reflektiert-man-das-eigene-lernen" id="toc-wie-reflektiert-man-das-eigene-lernen" class="nav-link" data-scroll-target="#wie-reflektiert-man-das-eigene-lernen"><span class="header-section-number">2.3.1</span> Wie reflektiert man das eigene Lernen?</a></li>
+  <li><a href="#wie-leitet-man-selbstständiges-lernen-an" id="toc-wie-leitet-man-selbstständiges-lernen-an" class="nav-link" data-scroll-target="#wie-leitet-man-selbstständiges-lernen-an"><span class="header-section-number">2.3.2</span> Wie leitet man selbstständiges Lernen an?</a></li>
+  <li><a href="#wie-leitet-man-systematisches-lernen-an" id="toc-wie-leitet-man-systematisches-lernen-an" class="nav-link" data-scroll-target="#wie-leitet-man-systematisches-lernen-an"><span class="header-section-number">2.3.3</span> Wie leitet man systematisches Lernen an?</a></li>
+  <li><a href="#wie-schafft-man-raum-für-individualität-und-selbstständigkeit" id="toc-wie-schafft-man-raum-für-individualität-und-selbstständigkeit" class="nav-link" data-scroll-target="#wie-schafft-man-raum-für-individualität-und-selbstständigkeit"><span class="header-section-number">2.3.4</span> Wie schafft man Raum für Individualität und Selbstständigkeit?</a></li>
+  <li><a href="#zusammenfassung-1" id="toc-zusammenfassung-1" class="nav-link" data-scroll-target="#zusammenfassung-1"><span class="header-section-number">2.3.5</span> Zusammenfassung</a></li>
   </ul></li>
-  <li><a href="#wie-helfen-andere-sprachen-beim-deutschlernen" id="toc-wie-helfen-andere-sprachen-beim-deutschlernen" class="nav-link" data-scroll-target="#wie-helfen-andere-sprachen-beim-deutschlernen"><span class="toc-section-number">2.4</span>  Wie helfen andere Sprachen beim Deutschlernen?</a>
+  <li><a href="#wie-helfen-andere-sprachen-beim-deutschlernen" id="toc-wie-helfen-andere-sprachen-beim-deutschlernen" class="nav-link" data-scroll-target="#wie-helfen-andere-sprachen-beim-deutschlernen"><span class="header-section-number">2.4</span> Wie helfen andere Sprachen beim Deutschlernen?</a>
   <ul class="collapse">
-  <li><a href="#welche-sprachen-gibt-es-im-klassenzimmer" id="toc-welche-sprachen-gibt-es-im-klassenzimmer" class="nav-link" data-scroll-target="#welche-sprachen-gibt-es-im-klassenzimmer"><span class="toc-section-number">2.4.1</span>  Welche Sprachen gibt es im Klassenzimmer?</a></li>
-  <li><a href="#welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es" id="toc-welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es" class="nav-link" data-scroll-target="#welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es"><span class="toc-section-number">2.4.2</span>  Welche Ähnlichkeiten und Unterschiede zwischen Sprachengibt es?</a></li>
-  <li><a href="#warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen" id="toc-warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen" class="nav-link" data-scroll-target="#warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen"><span class="toc-section-number">2.4.3</span>  Warum soll man das Vorwissen der Lernenden berücksichtigen?</a></li>
-  <li><a href="#wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an" id="toc-wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an" class="nav-link" data-scroll-target="#wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an"><span class="toc-section-number">2.4.4</span>  Wie knüpft man im Unterricht an vorhandene Kenntnisse an?</a></li>
-  <li><a href="#wie-vermittelt-man-deutsch-als-zweite-fremdsprache" id="toc-wie-vermittelt-man-deutsch-als-zweite-fremdsprache" class="nav-link" data-scroll-target="#wie-vermittelt-man-deutsch-als-zweite-fremdsprache"><span class="toc-section-number">2.4.5</span>  Wie vermittelt man Deutsch als zweite Fremdsprache?</a></li>
-  <li><a href="#wie-setzt-man-tertiärsprachenspezifische-prinzipien-um" id="toc-wie-setzt-man-tertiärsprachenspezifische-prinzipien-um" class="nav-link" data-scroll-target="#wie-setzt-man-tertiärsprachenspezifische-prinzipien-um"><span class="toc-section-number">2.4.6</span>  Wie setzt man tertiärsprachenspezifische Prinzipien um?</a></li>
-  <li><a href="#zusammenfassung-2" id="toc-zusammenfassung-2" class="nav-link" data-scroll-target="#zusammenfassung-2"><span class="toc-section-number">2.4.7</span>  Zusammenfassung</a></li>
+  <li><a href="#welche-sprachen-gibt-es-im-klassenzimmer" id="toc-welche-sprachen-gibt-es-im-klassenzimmer" class="nav-link" data-scroll-target="#welche-sprachen-gibt-es-im-klassenzimmer"><span class="header-section-number">2.4.1</span> Welche Sprachen gibt es im Klassenzimmer?</a></li>
+  <li><a href="#welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es" id="toc-welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es" class="nav-link" data-scroll-target="#welche-ähnlichkeiten-und-unterschiede-zwischen-sprachengibt-es"><span class="header-section-number">2.4.2</span> Welche Ähnlichkeiten und Unterschiede zwischen Sprachengibt es?</a></li>
+  <li><a href="#warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen" id="toc-warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen" class="nav-link" data-scroll-target="#warum-soll-man-das-vorwissen-der-lernenden-berücksichtigen"><span class="header-section-number">2.4.3</span> Warum soll man das Vorwissen der Lernenden berücksichtigen?</a></li>
+  <li><a href="#wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an" id="toc-wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an" class="nav-link" data-scroll-target="#wie-knüpft-man-im-unterricht-an-vorhandene-kenntnisse-an"><span class="header-section-number">2.4.4</span> Wie knüpft man im Unterricht an vorhandene Kenntnisse an?</a></li>
+  <li><a href="#wie-vermittelt-man-deutsch-als-zweite-fremdsprache" id="toc-wie-vermittelt-man-deutsch-als-zweite-fremdsprache" class="nav-link" data-scroll-target="#wie-vermittelt-man-deutsch-als-zweite-fremdsprache"><span class="header-section-number">2.4.5</span> Wie vermittelt man Deutsch als zweite Fremdsprache?</a></li>
+  <li><a href="#wie-setzt-man-tertiärsprachenspezifische-prinzipien-um" id="toc-wie-setzt-man-tertiärsprachenspezifische-prinzipien-um" class="nav-link" data-scroll-target="#wie-setzt-man-tertiärsprachenspezifische-prinzipien-um"><span class="header-section-number">2.4.6</span> Wie setzt man tertiärsprachenspezifische Prinzipien um?</a></li>
+  <li><a href="#zusammenfassung-2" id="toc-zusammenfassung-2" class="nav-link" data-scroll-target="#zusammenfassung-2"><span class="header-section-number">2.4.7</span> Zusammenfassung</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -193,7 +206,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Deutsch als fremde Sprache (DLL2)</span></h1>
 </div>
 
 
@@ -698,9 +711,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -765,6 +792,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
