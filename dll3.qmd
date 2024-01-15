@@ -41,7 +41,7 @@ In Kapitel 1 erläutern wir,
 
 ### Funktionen und Formen sprachlicher Mittel
 
-#### Bedeutungen von Grammatik:
+#### Bedeutungen von Grammatik {.unnumbered}
 
 1.  Grammatik kann begriffen werden als das *gesamte System von Formen*,
     das einer Sprache zugrunde liegt. Dieses System bildet die
@@ -107,7 +107,7 @@ Mitteilungsabsichten der Sprechenden, die auf die gehörten und
 verstandenen Inhalte des Gesprächs in einem bestimmten Kontext
 reagieren.
 
-#### Kommunizieren in Kontexten
+#### Kommunizieren in Kontexten {.unnumbered}
 
 Fremdsprachenlernende haben aufgrund ihres eingeschränkten Sprachwissens
 Schwierigkeiten, einen Text zu verstehen. Kontextwissen ermöglicht es
@@ -118,7 +118,7 @@ Kontextwissen des Beispieltelefonats:
 
 ![](media/band3_grafik_002_klein.jpg){fig-align="center"}
 
-#### Kommunizieren ist sprachliches Handeln
+#### Kommunizieren ist sprachliches Handeln {.unnumbered}
 
 Im nächsten Schritt sehen wir uns an, wie Silvia und Peter mit Sprache
 handeln, während sie miteinander telefonieren. Mit ihren Äußerungen
@@ -175,7 +175,7 @@ folgenden Fragen:
 -   Welche sprachlichen Mittel sind in welchen soziokulturellen
     Kontexten angemessen?
 
-#### Aussprache
+#### Aussprache {.unnumbered}
 
 Wie wir am Beispiel des Telefongesprächs gesehen haben, setzt sich die
 Sprache als Medium der Kommunikation aus vielen Einzelbausteinen
@@ -254,7 +254,7 @@ Funktionen z.B. hilfreich, wenn die Lernenden auf Deutsch über eigene
 Erlebnisse und Erfahrungen berichten möchten. Ziel ist dabei, die
 korrekte Zeitform auszuwählen.
 
-#### Sprachbewusstheit entwickeln
+#### Sprachbewusstheit entwickeln {.unnumbered}
 
 Außerdem sollte die Sprachbewusstheit der Lernenden in den Blick
 genommen werden. Sprachbewusstheit ist dabei mehr als Wissen über
@@ -270,7 +270,7 @@ Sprachgebrauch bewusst anzuwenden und zu entscheiden, wann man
 sprachliche Formen auch ohne Regelkenntnis als lexikalische Einheiten
 lernen sollte.
 
-![](media/band3_grafik_006_klein.jpg){fig-align="center"}
+![](media/band3_grafik_006_klein.jpg){fig-align="center" width="80%"}
 
 Zum Abschluss: Um Deutsch als fremde Sprache zu verstehen und zu
 unterrichten, ist es wichtig, deren Formen und Funktionen zu kennen und
@@ -475,7 +475,7 @@ konzentrieren uns hier vor allem auf die Kombination von Wörtern zu
 formelhaften Wendungen. Im Folgenden möchten wir mit Ihnen gemeinsam
 Merkmale formelhafter Wendungen herausarbeiten.
 
-#### Merkmal 1: Mehrgliedrigkeit
+#### Merkmal 1: Mehrgliedrigkeit {.unnumbered}
 
 Formelhafte Wendungen bestehen in der Regel aus mehreren Wörtern. Im
 Folgenden sehen Sie eine Auswahl von formelhaften Wendungen, die Ihnen
@@ -546,7 +546,7 @@ und deren Funktion lenken, können Sie der Fokussierung auf Einzelwörter
 entgegenwirken und verhindern, dass lange Vokabellisten auswendig
 gelernt werden.
 
-#### Merkmal 2: Idiomatizität
+#### Merkmal 2: Idiomatizität {.unnumbered}
 
 Zum Lernprozess Ihrer Lernenden gehört, dass sie formelhafte Wendungen
 nicht nur als mehrgliedrige, sondern auch als inhaltliche Einheit
@@ -631,7 +631,7 @@ als teilidiomatisch eingestuft werden können, auf dem Niveau A2
 angeboten. Kontextgestützte Entschlüsselungsstrategien für voll- und
 teilidiomatische Wendungen sollten also von Anfang an vermittelt werden.
 
-#### Merkmal 3: Festigkeit
+#### Merkmal 3: Festigkeit {.unnumbered}
 
 Die Bestandteile formelhafter Wendungen gehen eine sehr enge Verbindung
 ein und lassen sich daher nicht problemlos durch andere Wörter ersetzen.
@@ -670,7 +670,7 @@ formelhafter Wendungen; die Wendung muss Ihren Lernenden dabei bekannt
 sein. Es handelt sich um einen stark gesteuerten Übungstyp, wobei die
 Form und nicht die Bedeutung und der Kontext im Mittelpunkt stehen.
 
-#### Merkmal 4: Gebräuchlichkeit
+#### Merkmal 4: Gebräuchlichkeit {.unnumbered}
 
 Formelhafte Wendungen, die muttersprachliche Sprechende einer
 Sprachgemeinschaft besonders häufig verwenden, werden als gebräuchlich
@@ -727,7 +727,7 @@ Automatisierungsübungen lassen sich wie folgt zusammenfassen:
     werden. Wichtig ist auch, dass Sie Ihre Lernenden bei einer
     Automatisierungsübung nicht unterbrechen.
 
-#### Merkmal 5: Phonologische Kohärenz
+#### Merkmal 5: Phonologische Kohärenz {.unnumbered}
 
 Studien (z.B. Lin 2010) zeigen, dass formelhafte Wendungen besondere
 phonologische Eigenschaften besitzen. So werden z.B. Schlüsselwörter in
@@ -868,7 +868,7 @@ Betroffene/Resultate von Vorgängen und Handlungen sind. In dieser
 Funktion sind sie Subjekte oder Objekte in einem Satz. Auf die Funktion
 des Subjekts und von Objekten in einem Satz gehen wir in Kapitel 4 ein.
 
-#### Substantive, ihre Funktion und formalen Merkmale
+#### Substantive, ihre Funktion und formalen Merkmale{.unnumbered}
 
 Um Funktionen und formale Merkmale von Substantiven beschreiben zu
 können, unterscheiden wir drei grundlegende Bedeutungsklassen (siehe
@@ -961,7 +961,7 @@ Begleitern von Substantiven, die der Flexion unterliegen, d.h. die
 dekliniert werden und Markierungen tragen, um Genus, Numerus und Kasus
 von Nominalphrasen anzuzeigen.
 
-#### Das Genus der Substantive
+#### Das Genus der Substantive {.unnumbered}
 
 Das Genus der deutschen Substantive ist fraglos für alle Lernenden ein
 Stolperstein auf dem Weg zu grammatisch korrekten Äußerungen. Besonders
@@ -1126,7 +1126,7 @@ des Gelernten in freier Kommunikation, nicht gehen und somit keine
 Freude mehr am Sprachenlernen haben. Das aber wollen und müssen wir
 verhindern!
 
-#### Zur Pluralmarkierung der Substantive
+#### Zur Pluralmarkierung der Substantive {.unnumbered}
 
 Trotz aller Hilfen und Strategien zum Memorieren der Genera der
 Substantive gilt sicherlich, dass nur ein häufiges Wiederholen und Üben,
@@ -1147,7 +1147,7 @@ des Gelernten in freier Kommunikation, nicht gehen und somit keine
 Freude mehr am Sprachenlernen haben. Das aber wollen und müssen wir
 verhindern!
 
-#### Zur Pluralmarkierung der Substantive
+#### Zur Pluralmarkierung der Substantive {.unnumbered}
 
 In Bezug auf den Plural der Substantive lautet das Motto meist „Immer
 gleich mitlernen“ und vermutlich geben Sie in Ihrem Unterricht Ihren
@@ -1176,7 +1176,7 @@ Sprachproduktion keine Zeit vorhanden ist. Aber lesen Sie selbst:
 
 Plural schwierig zu vermitteln, am besten mitlernen.
 
-#### Begleiter von Substantiven, ihre Funktion und formalen Merkmale
+#### Begleiter von Substantiven, ihre Funktion und formalen Merkmale {.unnumbered}
 
 Auch unter Linguistinnen und Linguisten gibt es zur Artikelfrage
 unterschiedliche Ordnungsvorschläge. Das Problem liegt in der Abgrenzung
@@ -1242,7 +1242,7 @@ wir finden, recht gelungene Darstellung für diese Unterscheidung:
 
 ![](media/band3_scan_023_klein.jpg){fig-align="center"}
 
-#### Possessivartikel
+#### Possessivartikel {.unnumbered}
 
 Doch nun zu einem Vertreter der Wortart Artikel, dem Possessivartikel,
 der noch nicht sehr lange zu dieser Kategorie gerechnet wird, sondern
@@ -1277,7 +1277,7 @@ folgende grafische Darstellung der beiden Blickrichtungen könnte unseres
 Erachtens zusätzlich durch die Farbsymbolik für das Genus-Signal für
 Lernende hilfreich sein.
 
-![](media/band3_grafik_020_klein.jpg){fig-align="center"}
+![](media/band3_grafik_020_klein.jpg){fig-align="center" width="60%"}
 
 Für die mündliche Produktion, in der den Lernenden die Zeit fehlt,
 Regelwissen abzurufen, würden wir folgendes Vorgehen empfehlen, ohne
@@ -1386,7 +1386,7 @@ Verbs und anderer Teile in Sätzen aus der Perspektive des Verbs. Demnach
 allem Ergänzungen (Akkusativ-, Dativ-, Präpositionalergänzung), an sich
 zu binden. Damit beschäftigen wir uns ausführlicher in Kapitel 4.
 
-#### Klassifizierung der Verben
+#### Klassifizierung der Verben {.unnumbered}
 
 Wie eingangs bereits erwähnt besteht die kommunikative Funktion des
 Verbs darin, Tätigkeiten, Zustände oder Vorgänge auszudrücken. Um die
@@ -1419,7 +1419,7 @@ werden, teilt man Verben in folgende Klassen ein:
     bringen usw.),
 -   *trennbare* Verben (z.B. einkaufen, anrufen usw.).
 
-##### Modalverben und Vollverben
+#### Modalverben und Vollverben{.unnumbered}
 
 Beispiel: Sie *kann* nicht arbeiten.
 
@@ -1457,7 +1457,7 @@ Lernschwierigkeit dar. Die folgende Übersicht aus einem Handbuch für
 Lernende im Anfangsunterricht soll die Bedeutung der verschiedenen
 Modalverben illustrieren.
 
-![](media/band3_scan_026_klein.jpg){fig-align="center"}
+![](media/band3_scan_026_klein.jpg){fig-align="center" width="60%"}
 
 Modalverben verhalten sich also auf syntaktischer Ebene ähnlich wie die
 sogenannten Vollverben. In der gesprochenen Sprache finden sich daher
@@ -1467,7 +1467,7 @@ im Zusammenhang mit einer Sprache ohnehin von selbst versteht, oder ob
 solche Äußerungen nach dem Muster von Äußerungen wie Ich kann reiten
 gebildet werden.
 
-##### Reflexive Verben
+#### Reflexive Verben{.unnumbered}
 
 Auch die reflexiven Verben bilden eine eigene Verbklasse, und zwar aus
 zwei Gründen:
@@ -1504,7 +1504,7 @@ vermitteln, dass sie sich analog zu Verben mit Akkusativ- und
 Dativergänzung verhalten. Das Reflexiv in der dritten Person bleibt
 übrigens der Form nach "sich", auch wenn es ein Dativobjekt ist.
 
-#### Tempusmarkierung des Verbs
+#### Tempusmarkierung des Verbs {.unnumbered}
 
 Eine weitere Funktion des Verbs ist es, das Tempus zu markieren. Zwar
 gibt es viele weitere Möglichkeiten, zeitliche Angaben zu realisieren,
@@ -1539,7 +1539,7 @@ in einer Sprachhandlungssituation, die dafür im Deutschen typisch ist:
 dem Rekonstruieren von etwas Vergangenem, das in seinem Resultat in die
 Gegenwart hineinreicht.
 
-![](media/band3_scan_030_klein.jpg){fig-align="center"}
+![](media/band3_scan_030_klein.jpg){fig-align="center" width="60%"}
 
 1.  Die Lernenden ordnen die Bilder einer Geschichte, die einen Einbruch
     in eine Wohnung darstellt, in die richtige zeitliche Reihenfolge.
@@ -1561,7 +1561,7 @@ Gegenwart hineinreicht.
     und benutzen die Verben auf dem Kärtchen, das sie ziehen, wenn sie
     im Spiel an der Reihe sind (Flaschendrehen).
 
-#### Aktiv und Passiv – eine Frage der Perspektive
+#### Aktiv und Passiv – eine Frage der Perspektive {.unnumbered}
 
 In diesem Teilkapitel gehen wir auf die Funktion des finiten Verbs ein,
 das Genus Verbi auszudrücken. Wir befassen uns mit der Einteilung der
@@ -1573,7 +1573,7 @@ das Passiv für Deutschlernende oft ein Lernproblem dar. In vielen
 Lehrwerken wird das Passiv der Verben üblicherweise aus deren
 Aktivformen hergeleitet. Hier dafür ein Beispiel:
 
-![](media/band3_scan_031_klein.jpg){fig-align="center"}
+![](media/band3_scan_031_klein.jpg){fig-align="center" width="100%"}
 
 Die Gegenüberstellung der beiden Weihnachtsbaumszenen soll den
 Unterschied zwischen Aktiv und Passiv verdeutlichen. Wahrscheinlich geht
@@ -1621,7 +1621,7 @@ sind, wenn das Passiv eingeführt wird. Da die formale Bildung des
 Passivs den Lernenden selten Schwierigkeiten bereitet, werden wir uns
 damit nicht weiter aufhalten.
 
-#### Wille, Wunsch und Vorstellung: der Konjunktiv II
+#### Wille, Wunsch und Vorstellung: der Konjunktiv II {.unnumbered}
 
 Nach Eisenberg (2004) ist der entscheidende Unterschied zwischen dem
 Modus Indikativ und dem Modus Konjunktiv, dass mit der Wahl des
@@ -1801,8 +1801,10 @@ einem Wort eine Einheit, die aus einem oder mehreren zusammengehörenden
 Teilen besteht, die bestimmte Funktionen im Satz erfüllen. Beispiel aus
 dem Telefonat:
 
-![](media/band3_grafik_028_klein.jpg){fig-align="center"} Mit der Frage,
-welche Satzglieder (z.B. Subjekt, Akkusativobjekt, Prädikat usw.) in
+![](media/band3_grafik_028_klein.jpg){fig-align="center"} 
+
+
+Mit der Frage, welche Satzglieder (z.B. Subjekt, Akkusativobjekt, Prädikat usw.) in
 Sätzen vorkommen, welche kommunikativen Funktionen sie haben, welche
 morphologischen Formen sie annehmen und wie sie in Beziehung zueinander
 stehen, befassen wir uns in Kapitel 4.2. Mit der Wortstellung
@@ -1851,7 +1853,7 @@ Materialien nutzen und diese an das anpassen, was Ihren Lernenden aus
 ihrem Lehrwerk und Ihrem Unterricht bereits bekannt ist. Wir gehen
 deshalb kurz auf die drei Grammatikmodelle ein.
 
-#### Traditionelle Grammatik
+#### Traditionelle Grammatik {.unnumbered}
 
 Die traditionelle Grammatik weist den einzelnen Satzgliedern Funktionen
 zu, also z.B. die Funktion eines Subjekts oder eines Prädikats, und sie
@@ -1869,7 +1871,7 @@ hat dazu geführt, dass Sprachwissenschaftler Grammatikmodelle entwickelt
 haben, die solche Abhängigkeiten beschreiben. Diese Modelle heißen
 deswegen auch *Dependenzgrammatiken.*
 
-#### Valenzgrammatik
+#### Valenzgrammatik {.unnumbered}
 
 Die vielleicht bekannteste Dependenzgrammatik ist die Valenzgrammatik,
 die auch viele Lehrwerke seit den 1980er-Jahren beeinflusst hat und
@@ -1951,7 +1953,7 @@ Daher ist es wichtig, den Lernenden bewusst zu machen, dass die Valenz
 von Verben nicht immer bedeutet, dass alle Möglichkeiten der Ergänzungen
 wahrgenommen werden müssen.
 
-#### Feldermodell
+#### Feldermodell {.unnumbered}
 
 Das dritte der oben erwähnten Modelle beruht auf dem Feldermodell. Es
 geht wie die Valenzgrammatik davon aus, dass Satzglieder verschiedene
@@ -2036,7 +2038,7 @@ Am Ende dieses Kapitels
 -   können Sie die Darstellung von Satzgliedern und ihren Funktionen in
     Lehr- und Lernmaterialien einschätzen.
 
-#### Das Subjekt
+#### Das Subjekt {.unnumbered}
 
 In diesem Kapitel soll es um das Subjekt gehen, also um das Satzglied,
 das den Handelnden / die Sache oder Person, von der das Geschehen
@@ -2273,7 +2275,7 @@ liegt, spricht man anstelle von Prädikatsnomen auch von
 -   wie dieses Wissen genutzt werden kann, um Fehler in Lernertexten zu
     erklären.
 
-#### Das Prädikat
+#### Das Prädikat {.unnumbered}
 
 Es gibt mehrere syntaktische Besonderheiten des Prädikats im Deutschen,
 die Lehrende bei der Vermittlung des Deutschen als Fremdsprache kennen
@@ -2343,7 +2345,7 @@ Passiv. Wenn ein solches Symbol konsequent eingesetzt wird, reicht es
 oft aus, es im Unterricht zu erwähnen oder auf das Symbol zu zeigen,
 damit die Lernenden sich an die Regel erinnern.
 
-![](media/band3_scan_047_klein.jpg){fig-align="center"}
+![](media/band3_scan_047_klein.jpg){fig-align="center" width="80%"}
 
 *Zusammenfassung*: In diesem Teilkapitel haben wir Ihnen gezeigt,
 
@@ -2357,8 +2359,8 @@ damit die Lernenden sich an die Regel erinnern.
 -   dass das *Prädikat ein- und mehrteilig* sein kann,
 -   dass es *finite und infinite Verbformen* gibt, die im Deutschen die
     Satzklammer bilden.
-
-#### Die Objekte
+ 
+#### Die Objekte {.unnumbered}
 
 Viele Sprachhandlungen sind so komplex, dass Subjekt und Prädikat allein
 eine Mitteilungsabsicht nicht realisieren können. Schon sehr früh im
@@ -2414,7 +2416,7 @@ Mit der Frage "Wen oder was?" kann man das Akkusativobjekt erfragen. Die
 folgende Darstellung aus dem Zusatzmaterial Grammatik sehen macht dies
 besonders gut deutlich:
 
-![](media/band3_scan_049_klein.jpg){fig-align="center"}
+![](media/band3_scan_049_klein.jpg){fig-align="center" width="80%"}
 
 *Kommunikative Funktion des Dativobjekts*: Mit dem Dativobjekt wird
 meist die Person bezeichnet, zu deren Nutzen oder Schaden – im weiteren
@@ -2443,7 +2445,7 @@ werden.
 
 Dazu ein Überblick aus einer Lernergrammatik für Anfänger:
 
-![](media/band3_scan_050_klein.jpg){fig-align="center"}
+![](media/band3_scan_050_klein.jpg){fig-align="center" width="80%"}
 
 Genitivobjekte sind sehr selten und kommen vor allem in der gehobenen
 geschriebenen Sprache vor. Außerdem ist ihre morphologische Form sehr
@@ -2471,7 +2473,7 @@ dem entsprechenden Kasus gelernt werden. Die meisten Lehrwerke bieten
 daher eine Liste von Verben an, die ein Präpositionalobjekt erfordern,
 so auch das Lehrwerk Pluspunkt Deutsch wie im folgenden Beispiel.
 
-![](media/band3_scan_051_klein.jpg){fig-align="center"}
+![](media/band3_scan_051_klein.jpg){fig-align="center" width="80%"}
 
 Wenn man aber beim Schreiben auch mal ein Verb verwenden möchte, das
 nicht im Lehrwerk zu finden ist, dann sollten die Lernenden mit dem
@@ -2513,7 +2515,7 @@ Am Ende dieses Teilkapitels
 -   kennen Sie einige Regeln, die Ihren Lernenden bei der
     Sprachproduktion als Stütze dienen können.
 
-#### Stellungsfelder
+#### Stellungsfelder {.unnumbered}
 
 Sie haben im Teilkapitel zum Prädikat gelernt, dass das finite Verb an
 erster, zweiter oder letzter Position im Satz stehen kann und dass der
@@ -2545,7 +2547,7 @@ Beispiel 1. In der gesprochenen Sprache stehen in diesem Feld oft auch
 *redestrukturierende* Mittel wie also in Beispiel 2. Oft ist das
 Vor-Vorfeld aber leer.
 
-![](media/band3_grafik_044_klein.jpg){fig-align="center"}
+![](media/band3_grafik_044_klein.jpg){fig-align="center" width="80%"}
 
 *Vorfeld*: Auch im Vorfeld ist vieles möglich. Wie wir schon mehrfach
 gesagt haben, steht das Subjekt meist im Vorfeld (Beispiel 3). Das
@@ -2621,7 +2623,7 @@ warum, wie und wo ein Ereignis stattfindet. Die Regel dazu lautet:
 Wie man sich diese Reihenfolge noch besser merken kann, zeigt folgende
 Visualisierung: das Tee trinkende Kamel – Te(e)kam(e)l:
 
-![](media/band3_scan_056_klein.jpg){fig-align="center"}
+![](media/band3_scan_056_klein.jpg){fig-align="center" width="80%"}
 
 *Rechte Satzklammer*: Wie die linke Satzklammer ist auch die rechte
 Satzklammer ein eher einfacher Fall. Sie kann durch das finite Verb
@@ -2754,7 +2756,7 @@ steht, denn dann steht das finite Verb des Hauptsatzes direkt nach dem
 Komma. Dies illustrieren die folgende Darstellung aus einer Grammatik
 für Anfänger und ein Ausschnitt aus dem Lehrwerk Optimal.
 
-![](media/band3_scan_059_klein.jpg){fig-align="center"}
+![](media/band3_scan_059_klein.jpg){fig-align="center" width="80%"}
 
 ![](media/band3_scan_060_klein.jpg){fig-align="center"}
 
@@ -2846,7 +2848,7 @@ Kontext der Äußerung. Auf diese Weise verbinden Pronomen auch Sätze zu
 Texten. Wie man die Herstellung von Verbindungen im Text darstellen bzw.
 bewusst machen kann, zeigt folgendes Beispiel.
 
-![](media/band3_scan_064_klein.jpg){fig-align="center"}
+![](media/band3_scan_064_klein.jpg){fig-align="center" width="80%"}
 
 Eine wichtige Regel für Deutschlernende ist also: *Das, worauf sich das
 Pronomen bezieht, muss im Satz oder Text vor dem Pronomen auftreten.*
@@ -3016,7 +3018,7 @@ bisher ungewohnte Klangbilder aufzunehmen und zu speichern, ist auch
 früher beendet als z.B. der Erwerb der Wörter oder der grammatischen
 Strukturen.
 
-#### Auditive Wahrnehmung
+#### Auditive Wahrnehmung {.unnumbered}
 
 Beim Erlernen einer Fremdsprache wirken die Aussprachekategorien der
 Erstsprache im Gedächtnis nun wie ein Sieb. Das Problem sind nicht
@@ -3063,7 +3065,7 @@ Nasalvokale – und wirklich, an der falschen Aussprache dieses besonderen
 Vokalklangs durch die Nase wird der deutsche Französischsprecher ganz
 schnell identifiziert.
 
-#### Artikulation
+#### Artikulation {.unnumbered}
 
 Bei der Artikulation verhält es sich ganz ähnlich. Auch hier
 beeinflussen die in der Erstsprache erworbenen Sprechbewegungen das
@@ -3088,7 +3090,7 @@ Sprachvergleich Voraussagen geben: Aussprachephänomene, die es in der
 Erstsprache nicht gibt, werden mit hoher Wahrscheinlichkeit schwierig zu
 artikulieren sein.
 
-#### Schrifterwerb und Aussprache
+#### Schrifterwerb und Aussprache {.unnumbered}
 
 Die Lautwerte, also die Aussprache der Buchstaben, werden dabei manchmal
 fehlerhaft aus der Erstsprache bzw. aus einer anderen Fremdsprache in
@@ -3101,9 +3103,9 @@ Möglichkeit, selbstständig die korrekte Aussprache eines Wortes
 nachzuschlagen. Sehen Sie hier eine Laut-Buchstaben-Tabelle zur
 Darstellung des deutschen Alphabets:
 
-![](media/band3_scan_066_klein.jpg){fig-align="center"}
+![](media/band3_scan_066_klein.jpg){fig-align="center" width="80%"}
 
-#### Aussprechen ist kulturell geprägt
+#### Aussprechen ist kulturell geprägt {.unnumbered}
 
 Kulturell und sozial bedingte Vorlieben beim Aussprechen können den
 Erwerb der fremden Aussprache des Deutschen ebenfalls erschweren. Mit
@@ -3133,7 +3135,7 @@ Lernatmosphäre spielt also auch für das Training von Aussprache eine
 große Rolle. Hier sind die Faktoren, die die Aussprache beeinflussen,
 noch einmal zusammengefasst:
 
-![](media/band3_grafik_054_klein.jpg){fig-align="center"}
+![](media/band3_grafik_054_klein.jpg){fig-align="center" width="80%"}
 
 *Zusammenfassung*: Eine korrekte Aussprache im Deutschen als
 Fremdsprache setzt voraus, dass die auditive Wahrnehmung, das Hören der
@@ -3317,7 +3319,7 @@ an. Akzentsilben können für Lernende grafisch auch so hervorgehoben
 werden, wie es dem Verlauf der Melodie entspricht, wie Ihnen das
 folgende Beispiel zeigt.
 
-![](media/band3_scan_067_klein.jpg){fig-align="center"}
+![](media/band3_scan_067_klein.jpg){fig-align="center" width="80%"}
 
 Vorsilben und Endungen tragen im Deutschen normalerweise keinen
 Wortakzent. Nur ganz selten übernehmen Vorsilben und Endungen den
@@ -3326,7 +3328,7 @@ Ebenso ist bei den trennbaren Verben der erste, trennbare
 Wortbestandteil akzentuiert. Dadurch kann man sie phonetisch von den
 nichttrennbaren Verben unterscheiden (siehe Teilkapitel 3.3.1).
 
-![](media/band3_scan_068_klein.jpg){fig-align="center"}
+![](media/band3_scan_068_klein.jpg){fig-align="center" width="80%"}
 
 Grammatische Endungen werden niemals betont ausgesprochen, auch wenn sie
 im Fremdsprachenunterricht so wichtig erscheinen.
@@ -3432,7 +3434,7 @@ Wenn Sie dieses Teilkapitel gelesen haben,
     Erstsprache Ihrer Lernenden unterscheidet, und wo mögliche
     Schwierigkeiten bei der Aussprache auftreten.
 
-#### Vokallaute
+#### Vokallaute {.unnumbered}
 
 Vokallaute sind Öffnungslaute. Das bedeutet, dass sie ohne Kontakt der
 Lippen oder der Zähne zueinander und auch ohne Kontakt der Zunge mit dem
@@ -3476,7 +3478,7 @@ entscheiden, ob der Vokal lang oder kurz gesprochen wird. Sie kennen
 sicher einige Regeln dafür, zu denen es zwar auch Ausnahmen gibt, die
 sich aber doch als Orientierung eignen.
 
-![](media/vokal_regeln.png){fig-align="center"}
+![](media/vokal_regeln.png){fig-align="center" width="80%"}
 
 Die Bildung der Regeln ist Ihnen sicher nicht schwergefallen. Wie bei
 allen Regeln muss man jedoch einige Hinweise beachten: Von *Regel 1*
@@ -3606,7 +3608,7 @@ die Stimme unterbrochen, sodass ein leises Knackgeräusch zwischen den
 Stimmlippen entsteht, z.B. Antwort oder beantworten. Das kann man gut
 trainieren, indem man einen kleinen Moment die Luft im Hals anhält.
 
-#### Konsonantenlaute
+#### Konsonantenlaute {.unnumbered}
 
 Konsonantenlaute sind *Verschlusslaute* oder *Engelaute.* Der Mundraum
 wird bei der Artikulation an einer Stelle verschlossen oder verengt. Der
@@ -3677,7 +3679,7 @@ die Schallstärke keine Rolle, da diese nicht paarweise auftreten.
 
 Wo wird im Deutschen artikuliert?
 
-![](media/band3_grafik_065_klein.jpg){fig-align="center"}
+![](media/band3_grafik_065_klein.jpg){fig-align="center" width="80%"}
 
 -   
 
@@ -3809,7 +3811,7 @@ Außerdem bieten Korpora eine gute Möglichkeit, typische Wörter zu ermitteln, 
 
 Das DWDS-Wortprofil kann vielfältig genutzt werden. Wenn Sie korrigieren, können Sie damit überprüfen, ob eine bestimmte Verbindung von Wörtern, die Ihre Lernenden in ihren Texten verwendet haben, in deutschen Texten gebräuchlich oder eher ungebräuchlich ist. So können Sie entscheiden, ob und wie Sie die Lernenden korrigieren müssen. Es kann aber auch als Grundlage für die Wortschatzarbeit eingesetzt werden. Lernende können z.B. eigenständig ihren Wortschatz mithilfe von Wortprofilen ausbauen. Als Lehrkraft können Sie diesen Prozess durch gezielte Arbeitsaufträge unterstützen, indem Sie einen Wortigel vorgeben, der mithilfe des DWDS-Wortprofils eigenständig ausgefüllt werden sollte:
 
-![](media/band3_grafik_066_klein.jpg){fig-align="center"}
+![](media/band3_grafik_066_klein.jpg){fig-align="center" width="80%"}
 
 *Zusammenfassung*: Sprachkorpora können bei der Vermittlung von Sprache hilfreich sein. Man braucht vielleicht etwas Zeit, sich in den Umgang mit Korpora einzuarbeiten. Wir möchten Sie dennoch ermutigen, die Arbeit mit Korpora für sich selbst auszutesten. Ein besonderer Reiz besteht auch darin, dass man durch Sprachkorpora die deutsche Sprache in ihrer Entwicklung kennenlernen kann.
 

@@ -10,6 +10,7 @@ book:
     - index.qmd
     - dll2.qmd
     - dll3.qmd
+    - dll6.qmd
     - references.qmd
   navbar:
     right:
