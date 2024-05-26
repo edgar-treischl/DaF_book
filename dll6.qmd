@@ -430,13 +430,29 @@ Unserer Meinung nach gibt es allerdings wie immer auch einige Bereiche, bei dene
 *Zusammenfassung*: In Kapitel 1.5 haben wir uns zunächst mit dem Begriff „Standard“ beschäftigt und sind darauf eingegangen, welche Bedeutung ergebnisorientierte Standards im Sinne von fachdidaktisch begründeten Kompetenzerwartungen für Bildungsinstitutionen und für Ihren eigenen Unterricht haben können.
 
 
-### Curriculum
+### Curriculum und verwandte Konzepte
+
+Die Einführung von ergebnisorientierten Kompetenzstandards hat in vielen Ländern einen großen Einfluss auf den Lehrplan, das Curriculum und die Prüfung. Auch Sie als Lehrende oder auch als Sprachenlernende unterliegen diesen Vorgaben, selbst wenn Sie die Lehrpläne oder Curricula, die in Ihrem Land gelten, gar nicht kennen. Diejenigen von Ihnen, die schon unterrichten, müssen allerdings manchmal sogar Stoffverteilungspläne schreiben, in denen genau geregelt wird, was zu bestimmten Zeitpunkten vermittelt werden soll. Dies gilt vor allem für Schulen, aber auch für andere Institutionen im Bereich DaF.
+
+Wenn schon Ihr unterrichtliches Handeln in wesentlichen Teilen durch externe Einflussfaktoren bestimmt ist, dann ist es für Sie auch sinnvoll, die Vorgaben einmal etwas genauer unter die Lupe zu nehmen. Dann können Sie nämlich auch besser beurteilen, wie groß jeweils Ihr Handlungsspielraum bei der konkreten Unterrichtsgestaltung ist.
+
+Es ist sehr schwierig, zwischen Curriculum und Lehrplan eindeutig begrifflich zu trennen.Zum einen wird Curriculum häufig als Oberbegriff verwendet. Zum anderen werden Curriculum und Lehrplan aber auch als (weitgehend) synonym verstanden. Wahrscheinlich haben Sie sogar eine Beschreibung entdeckt, in der z. B. folgende miteinander verbundene Merkmale für die Erstellung von Lehrplänen oder auch von Curricula genannt werden:
+
+- Formulierung von verbindlichen Zielen des Unterrichts
+- Angabe der zur Erreichung dieser Ziele verbindlichen Inhalte und Gegenstände
+- Angaben zur (linearen) Abfolge und Progression von Unterrichtsinhalten und Lerngegenständen
+- Angabe der Zeiten, in denen diese Ziele zu erreichen sind
+- Empfehlung der geeigneten unterrichtsmethodischen Verfahren
+- Beispiele für eine Unterrichtsstunde oder auch für Übungsaufgaben
+- Formen der Lernerfolgsüberprüfung und Beispiele für Prüfungsformen
 
 
+Diese und ähnliche Merkmalslisten stehen für ein eher traditionelles Verständnis von Curricula und Lehrplänen. Es handelt sich dann um Planungsinstrumente, in denen genau beschrieben wird, welche Lernziele man anstrebt, welche Inhalte in einer bestimmten Zeit zu bearbeiten sind und wie diese zu bearbeiten sind. Man spricht hier und diesen Begriff kennen Sie aus dem Vorhergehenden schon auch von sogenannten *input-orientierten Lehrplänen*.
 
 
+In Lehrplänen wird heutzutage meist weder beschrieben, wie man genau dabei vorgehen muss, um ein bestimmtes Ziel und damit ein bestimmtes Ergebnis zu erreichen, noch werden die Inhalte bis ins Detail festgelegt, die vermittelt werden sollen. Die input-orientierten Lehrpläne wurden in Deutschland und vielen anderen Ländern mittlerweile nicht nur für die Fremdsprachen zum großen Teil abgeschafft. Stattdessen werden kompetenzorientierte Kernlehrpläne erstellt, die je nach Bundesland und Institution auch als Rahmenlehrplan, Rahmenplan, Rahmencurriculum oder auch Bildungsplan bezeichnet werden. Lassen Sie sich durch die unterschiedlichen Bezeichnungen nicht verwirren! Alle genannten Typen sind mittlerweile kompetenzorientiert.
 
-
+Im Fall der Fremdsprachen orientieren sie sich am GER und an den fremdsprachlichen Bildungsstandards. Sie beschreiben Unterrichtsvorgaben, die im Sinne von Kompetenzerwartungen am Ende wichtiger Ausbildungsabschnitte (z. B. Jahrgangsstufe 6 und Jahrgangsstufe 9) erreicht werden sollen. Aufgeführte Inhalte haben in erster Linie einen exemplarischen Charakter. Außerdem enthalten Kernlehrpläne und verwandte Dokumente in der Regel Beispiele für Aufgabentypen zur Ermittlung der kommunikativen Teilkompetenzen Hörverstehen, Hör-Sehverstehen, Sprechen, Leseverstehen, Schreiben und zunehmend auch Sprachmittlung. Die Darstellung zielt insgesamt auf eine möglichst hohe Transparenz für alle Adressaten (insbesondere Lehrende, Lernende oder auch Eltern). Im Umfang sind Kernlehrpläne und verwandte Dokumente, da sie nicht alles genauestens beschreiben, natürlich viel kürzer als die entsprechenden input-orientierten Lehrpläne. Vielleicht werden sie ja dadurch auch eher von Lehrenden gelesen und umgesetzt.
 
 
 ## Unterricht planen
